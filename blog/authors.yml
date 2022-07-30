@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+saosangmo:
+  name: Dzung Do
+  title: Founder
+  url: https://f1.edu.vn
+  image_url: https://github.com/sangmo.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+honghanh:
+  name: Hong Hanh
+  title: Document Maintainer
+  url: https://github.com/honghanh
+  image_url: https://github.com/honghanh.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+thanhnn:
+  name: Nguyen Ngoc Thanh
+  title: Frontend Developer
+  url: https://osd.vn
+  image_url: https://github.com/thanhnn.png
