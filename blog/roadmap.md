@@ -8,7 +8,7 @@ tags: [roadmap,pisale]
 # Kế hoạch cải tiến sản phẩm
 ## 2022-08-31. V6.5.0
 1. - [ ] 🐱‍💻 Bổ sung coupon
-2. - [ ] 🐱‍💻 Sitemap.xml hỗ trợ sitemap.xsl
+2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [ ] 🐱‍💻 Admin Tasks
@@ -27,7 +27,7 @@ tags: [roadmap,pisale]
 18. - [ ] Ajax admin
 19. - [ ] Quản lý khách hàng
 20. - [ ] Sửa giao diện tùy chọn sản phẩm
-21. - [ ] Hỗ trợ đặt hàng theo nhu cầu mua
+21. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
 24. - [ ] 🐱‍💻Tracking code
