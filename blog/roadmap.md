@@ -32,3 +32,4 @@ tags: [roadmap,pisale]
 23. - [ ] Bộ lọc sản phẩm
 24. - [ ] 🐱‍💻Tracking code
 25. - [x] Admin notification
+26. - [ ] 🐱‍💻 Hỗ trợ redirect 301, 302
