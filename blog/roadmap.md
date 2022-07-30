@@ -23,12 +23,12 @@ tags: [roadmap, pale]
 14. - [ ] Nghiệp vụ mua trả góp
 15. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
 16. - [ ] 🐱‍💻 Task queue for optimizing lossless image
-17. - [ ] Hỗ trợ ảnh webp
+17. - [ ] 🐱‍💻 Hỗ trợ ảnh webp
 18. - [ ] Ajax admin
 19. - [ ] Quản lý khách hàng
 20. - [ ] Sửa giao diện tùy chọn sản phẩm
 21. - [ ] Hỗ trợ đặt hàng theo nhu cầu mua
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
-24. - [ ] Tracking code
+24. - [ ] 🐱‍💻Tracking code
 25. - [ ] 🐱‍💻 Admin notification
