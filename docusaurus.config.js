@@ -51,14 +51,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/osdvn/pisale-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/osdvn/pisale-docs/tree/main/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/osdvn/pisale-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/osdvn/pisale-docs/tree/main/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -74,7 +74,7 @@ const config = {
         title: 'Docs',
         logo: {
           alt: 'Docs',
-          src: 'img/pisale.svg',
+          src: 'img/pisale.png',
         },
         items: [
           {
@@ -128,8 +128,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'OSD.VN',
-                href: 'https://osd.vn',
+                label: 'Cộng đồng F1',
+                href: 'https://f1.edu.vn',
               },
             ],
           },
