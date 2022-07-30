@@ -7,11 +7,11 @@ tags: [roadmap, pale]
 
 # Kế hoạch cải tiến sản phẩm
 ## 2022-08-31. V6.5.0
-1. - [ ] Bổ sung coupon
+1. - [ ] 🐱‍💻 Bổ sung coupon
 2. - [ ] 🐱‍💻 Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
-5. - [ ] Admin Tasks
+5. - [ ] 🐱‍💻 Admin Tasks
 6. - [ ] Tích hợp tiktok
 7. - [ ] Tích hợp Google Ads, Facebook Ads
 8. - [ ] 🐱‍💻 MySQL Console: doing
@@ -31,3 +31,4 @@ tags: [roadmap, pale]
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
 24. - [ ] Tracking code
+25. - [ ] 🐱‍💻 Admin notification
