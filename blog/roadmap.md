@@ -8,8 +8,8 @@ tags: [roadmap, pale]
 # Kế hoạch cải tiến sản phẩm
 ## 2022-08-31. V6.5.0
 1. - [ ] Bổ sung coupon
-2. - [ ] Sitemap.xml hỗ trợ sitemap.xsl
-3. - [ ] Tắt chức năng không dùng cho mỗi dự án
+2. - [ ] 🐱‍💻 Sitemap.xml hỗ trợ sitemap.xsl
+3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [ ] Admin Tasks
 6. - [ ] Tích hợp tiktok
@@ -30,3 +30,4 @@ tags: [roadmap, pale]
 21. - [ ] Hỗ trợ đặt hàng theo nhu cầu mua
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
+24. - [ ] Tracking code
