@@ -81,12 +81,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Hướng dẫn sử dụng',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://osd.vn',
+            label: 'OSD.VN',
             position: 'right',
           },
         ],
@@ -111,7 +111,7 @@ const config = {
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Zalo',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
@@ -128,8 +128,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'OSD.VN',
+                href: 'https://osd.vn',
               },
             ],
           },
