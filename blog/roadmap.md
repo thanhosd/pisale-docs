@@ -23,7 +23,7 @@ tags: [roadmap,pisale]
 14. - [ ] Nghiệp vụ mua trả góp
 15. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
 16. - [ ] 🐱‍💻 Task queue for optimizing lossless image
-17. - [ ] 🐱‍💻 Hỗ trợ ảnh webp
+17. - [x] Hỗ trợ ảnh webp
 18. - [ ] Ajax admin
 19. - [ ] Quản lý khách hàng
 20. - [ ] Sửa giao diện tùy chọn sản phẩm
