@@ -98,25 +98,25 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Hướng dẫn sử dụng',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Hỗ trợ',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Báo lỗi',
+                href: 'https://github.com/osdvn/pisale-docs/issues',
               },
-              {
+		{
+		label: 'Liên hệ',
+		href: 'https://osd.vn/information/contact',
+              },
+		{
                 label: 'Zalo',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://zalo.me/osd.vn',
               },
             ],
           },
