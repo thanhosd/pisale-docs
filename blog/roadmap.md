@@ -2,7 +2,7 @@
 slug: roadmap
 title: Kế hoạch cải tiến sản phẩm
 authors: saosangmo
-tags: [roadmap, pale]
+tags: [roadmap,pisale]
 ---
 
 # Kế hoạch cải tiến sản phẩm
@@ -14,7 +14,7 @@ tags: [roadmap, pale]
 5. - [ ] 🐱‍💻 Admin Tasks
 6. - [ ] Tích hợp tiktok
 7. - [ ] Tích hợp Google Ads, Facebook Ads
-8. - [x] 🐱‍💻 MySQL Console: doing
+8. - [ ] 🐱‍💻 MySQL Console: doing
 9. - [ ] 🐱‍ 💻Quản lý broken link: doing
 10. - [ ] Mẫu nội dung cho trình soạn thảo
 11. - [ ] Quick view product
