@@ -33,3 +33,4 @@ tags: [roadmap,pisale]
 24. - [ ] 🐱‍💻Tracking code
 25. - [x] Admin notification
 26. - [ ] 🐱‍💻 Hỗ trợ redirect 301, 302
+27. - [ ] Customize những trang đặc biệt
