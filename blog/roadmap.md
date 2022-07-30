@@ -31,4 +31,4 @@ tags: [roadmap, pale]
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
 24. - [ ] 🐱‍💻Tracking code
-25. - [ ] 🐱‍💻 Admin notification
+25. - [x] 🐱‍💻 Admin notification
