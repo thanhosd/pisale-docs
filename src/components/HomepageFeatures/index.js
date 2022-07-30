@@ -4,17 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Dễ sử dụng',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Thừa kế quan điểm của SimpleStore do OSD.VN triển khai 10+ năm kinh nghiệm.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Chuẩn SEO chuyên sâu',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Khoa học và chuẩn hóa',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
