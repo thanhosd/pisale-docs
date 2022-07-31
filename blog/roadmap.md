@@ -32,7 +32,7 @@ tags: [roadmap,pisale]
 23. - [ ] Bộ lọc sản phẩm
 24. - [ ] 🐱‍💻Tracking code
 25. - [x] Admin notification
-26. - [ ] 🐱‍💻 Hỗ trợ redirect 301, 302
+26. - [x] Hỗ trợ redirect 301, 302
 27. - [ ] Customize những trang đặc biệt
 28. - [ ] AMP-HTML cơ bản cho bài: tin tức, dịch vụ
 29. - [ ] Cookie Consent 
