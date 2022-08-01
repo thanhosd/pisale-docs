@@ -33,7 +33,7 @@ tags: [roadmap,pisale]
 24. - [x] Tracking code
 25. - [x] Admin notification
 26. - [x] Hỗ trợ redirect 301, 302
-27. - [ ] Customize những trang đặc biệt: SEO, title, descrition
+27. - [ ] Customize những trang đặc biệt: SEO, title, description
 28. - [ ] AMP-HTML cơ bản cho bài: tin tức, dịch vụ
 29. - [ ] 🐱‍💻 Cookie Consent 
 30. - [ ] Cho phép đặt số lượng vote => chống tấn công
