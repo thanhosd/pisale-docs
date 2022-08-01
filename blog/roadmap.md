@@ -26,13 +26,13 @@ tags: [roadmap,pisale]
 17. - [x] Hỗ trợ ảnh webp
 18. - [ ] Ajax admin
 19. - [ ] Quản lý khách hàng
-20. - [ ] Sửa giao diện tùy chọn sản phẩm
+20. - [ ] 🐱‍💻 Sửa giao diện tùy chọn sản phẩm
 21. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
-24. - [ ] 🐱‍💻Tracking code
+24. - [x] Tracking code
 25. - [x] Admin notification
 26. - [x] Hỗ trợ redirect 301, 302
 27. - [ ] Customize những trang đặc biệt
 28. - [ ] AMP-HTML cơ bản cho bài: tin tức, dịch vụ
-29. - [ ] Cookie Consent 
+29. - [ ] 🐱‍💻Cookie Consent 
