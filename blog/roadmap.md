@@ -21,7 +21,7 @@ tags: [roadmap,pisale]
 12. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 13. - [ ] Chức năng bảo hành
 14. - [ ] Nghiệp vụ mua trả góp
-15. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
+15. - [ ] 🐱‍💻 Customer portal, self service to manage issue & ticket. Public ticket
 16. - [ ] 🐱‍💻 Task queue for optimizing lossless image
 17. - [x] Hỗ trợ ảnh webp
 18. - [ ] Ajax admin
@@ -33,7 +33,8 @@ tags: [roadmap,pisale]
 24. - [x] Tracking code
 25. - [x] Admin notification
 26. - [x] Hỗ trợ redirect 301, 302
-27. - [ ] Customize những trang đặc biệt
+27. - [ ] Customize những trang đặc biệt: SEO, title, descrition
 28. - [ ] AMP-HTML cơ bản cho bài: tin tức, dịch vụ
-29. - [ ] 🐱‍💻Cookie Consent 
+29. - [ ] 🐱‍💻 Cookie Consent 
 30. - [ ] Cho phép đặt số lượng vote => chống tấn công
+31. - [ ] 🐱‍💻 Giỏ hàng
