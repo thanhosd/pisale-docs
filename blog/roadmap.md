@@ -36,5 +36,5 @@ tags: [roadmap,pisale]
 27. - [ ] Customize những trang đặc biệt: SEO, title, description
 28. - [ ] AMP-HTML cơ bản cho bài: tin tức, dịch vụ
 29. - [ ] 🐱‍💻 Cookie Consent 
-30. - [ ] Cho phép đặt số lượng vote => chống tấn công
+30. - [x] Cho phép đặt số lượng vote => chống tấn công
 31. - [ ] 🐱‍💻 Giỏ hàng
