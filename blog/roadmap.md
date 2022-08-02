@@ -39,3 +39,6 @@ tags: [roadmap,pisale]
 30. - [x] Cho phép đặt số lượng vote => chống tấn công
 31. - [ ] 🐱‍💻 Giỏ hàng
 32. - [x] Fix lỗi bật tắt tác giả/ lượt xem, tin bài của chuyên mục khi xem chi tiết tin tức
+
+## 2022-12-31. V6.5.1
+1. - [ ] Tối ưu hóa backup
