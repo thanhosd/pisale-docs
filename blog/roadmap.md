@@ -26,7 +26,7 @@ tags: [roadmap,pisale]
 17. - [x] Hỗ trợ ảnh webp
 18. - [ ] Ajax admin
 19. - [ ] Quản lý khách hàng
-20. - [ ] 🐱‍💻 Sửa giao diện tùy chọn sản phẩm
+20. - [x] Sửa giao diện tùy chọn sản phẩm
 21. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 22. - [ ] Cộng tác nhóm khi soạn thảo bài viết
 23. - [ ] Bộ lọc sản phẩm
