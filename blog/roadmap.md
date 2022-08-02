@@ -7,7 +7,7 @@ tags: [roadmap,pisale]
 
 # Kế hoạch cải tiến sản phẩm
 ## 2022-08-31. V6.5.0
-1. - [ ] 🐱‍💻 Bổ sung coupon
+1. - [ ] 🐱‍💻 Bổ sung chức năng coupon
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
@@ -42,3 +42,4 @@ tags: [roadmap,pisale]
 
 ## 2022-12-31. V6.5.1
 1. - [ ] Tối ưu hóa backup
+2. - [ ] AMP-HTML full page
