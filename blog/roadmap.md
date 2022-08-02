@@ -15,7 +15,7 @@ tags: [roadmap,pisale]
 6. - [ ] 🐱‍💻 MySQL Console: doing
 7. - [ ] 🐱‍ 💻Quản lý broken link: doing
 8. - [x] Hỗ trợ ảnh webp
-9. - [ ] 🐱‍💻 Ajax admin
+9. - [x] Ajax admin
 10. - [ ] 🐱‍💻 Quản lý khách hàng
 11. - [x] Sửa giao diện tùy chọn sản phẩm
 12. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
