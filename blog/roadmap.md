@@ -13,7 +13,7 @@ tags: [roadmap,pisale]
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [ ] 🐱‍💻 Admin Tasks
 6. - [ ] 🐱‍💻 MySQL Console: doing
-7. - [ ] 🐱‍ 💻Quản lý broken link: doing
+7. - [x] Quản lý broken link: mức cơ bản
 8. - [x] Hỗ trợ ảnh webp
 9. - [x] Ajax admin
 10. - [ ] 🐱‍💻 Quản lý khách hàng
