@@ -20,7 +20,7 @@ tags: [roadmap,pisale]
 11. - [x] Sửa giao diện tùy chọn sản phẩm
 12. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 13. - [ ] Bộ lọc sản phẩm
-14. - [x] Tracking code
+14. - [x] 🐱‍💻 Tracking code
 15. - [x] Admin notification
 16. - [x] Hỗ trợ redirect 301, 302
 17. - [ ] Customize những trang đặc biệt: SEO, title, description
@@ -46,3 +46,4 @@ tags: [roadmap,pisale]
 15. - [ ] Popup Builder
 16. - [ ] Layout drag and drop
 17. - [ ] Task queue for optimizing lossless image
+18. - [ ] Danh sách người dùng online
