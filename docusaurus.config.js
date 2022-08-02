@@ -42,13 +42,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://github.com/osdvn/pisale-docs/tree/main/',
+          editUrl: 'https://github.com/osdvn/pisale-docs/tree/main/',
         },
         blog: {
-          showReadingTime: false,
-          editUrl:
-            'https://github.com/osdvn/pisale-docs/tree/main/',
+          showReadingTime: true,
+          editUrl: 'https://github.com/osdvn/pisale-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
