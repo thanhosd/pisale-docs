@@ -8,7 +8,7 @@ Nhấn chọn **Nội dung -> Nhà sản xuất -> Thêm**. Những thông tin c
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho Nhà sản xuất._
 
-**Tên Nhà sản xuất**
+**Tên nhà sản xuất**
 
 Nhập tên nhà sản xuất
 
@@ -47,9 +47,9 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa nhà sản xuất
 
-Để xóa một nhà sản xuất, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa Nhà sản xuất** trong mỗi Nhà sản xuất chi tiết.
+Để xóa một nhà sản xuất, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa Nhà sản xuất đó.
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhà sản xuất đó.
 
 ## Sửa Nhà sản xuất
 
