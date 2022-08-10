@@ -38,3 +38,15 @@ Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở v�
 ![mau-noi-dung-4.jpg](img/mau-noi-dung-4.jpg)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+
+## Xóa mẫu nội dung
+
+Để xóa một mẫu nội dung, nhấn chọn nút **Xóa** tại mẫu nội dung đó
+
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa chi nhánh đó.
+
+## Sửa mẫu nội dung
+
+Để sửa một mẫu nội dung, nhấn chọn sửa tại mẫu nội dung đó.
+
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
