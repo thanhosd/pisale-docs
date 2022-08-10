@@ -1,4 +1,9 @@
-
+---
+title: Cấu hình SEO
+tags:
+  - seo
+published: true
+---
 # Cấu hình SEO cho toàn bộ website
 
 Khu vực này cho phép bạn khai báo thông tin chung liên quan đến SEO của toàn bộ website.
