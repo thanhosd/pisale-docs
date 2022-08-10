@@ -104,7 +104,7 @@ const config = {
               },
 		{
                 label: 'Zalo',
-                href: 'https://zalo.me/537453414190253419',
+                href: 'https://zalo.me/0932224911',
               },
             ],
           },
