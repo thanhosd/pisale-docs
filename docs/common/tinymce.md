@@ -216,4 +216,3 @@ WIP: tham khảo thêm cách tạo kênh và upload video lên youtube
 Bạn có thể sử dụng nhấn nút Table trong trình soạn thảo để chèn bảng biểu vào nội dung trình soạn thảo.
 
 Khi muốn gộp, tách cột và dòng, thao tác cũng tương tự như bạn thao tác với MS Excel, Google Docs, MS Word...
-
