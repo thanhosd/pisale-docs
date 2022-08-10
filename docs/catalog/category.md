@@ -15,13 +15,17 @@ _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
 Mỗi nhóm sản phẩm được tạo sẽ có 1 đường dẫn địa chỉ website, tại địa chỉ URL đó sẽ hiển thị những bài sản phẩm mà bạn đã thêm vào.
 
+**Phụ đề**
+
+Nhập tên phụ đề cho nhóm sản phẩm
+
 **Mô tả phía trên**
 
-Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
+Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh sách các bài sản phẩm.
 
 **Mô tả phía dưới**
 
-Là phần nội dung mở đầu của một nhóm sản phẩm, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
+Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
@@ -29,14 +33,22 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 Dể upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
+**Banner**
+
+Dể upload được ảnh, bạn cần nhấp chuột tại ảnh bannern, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+
 **Cấp danh mục cha**
 
 Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có danh mục cha thì sẽ là danh mục lớn nhất. Bạn nhập tên danh mục sản phẩm, hệ thống gợi ý tên danh mục để bạn lựa chọn.
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Thêm 1 bước cấu hình mô đun nhóm sản phẩm tại **Giao diện -> Mô đun -> Nhóm sản phẩm**
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Tab mở rộng**
+
+
 
 **Thứ tự**
 
