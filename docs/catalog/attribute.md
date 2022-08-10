@@ -20,9 +20,9 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa đặc tính
 
-Để xóa  đặc tính, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên trái
+Để xóa đặc tính, tích vào đặc tính đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhà sản xuất đó.
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa đặc tính đó.
 
 ## Sửa đặc tính
 
