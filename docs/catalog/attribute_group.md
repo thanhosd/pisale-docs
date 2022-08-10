@@ -2,8 +2,6 @@
 
 ## Thêm mới nhóm đặc tính
 
-Để thêm một nhà sản xuất, bạn cần:
-
 Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm đặc tính -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
 **Tên nhóm đặc tính**
@@ -18,9 +16,9 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa nhóm đặc tính
 
-Để xóa nhóm đặc tính, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên trái
+Để xóa nhóm đặc tính, tích vào nhóm đặc tính đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhà sản xuất đó.
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhóm đặc tính đó.
 
 ## Sửa nhóm đặc tính
 
