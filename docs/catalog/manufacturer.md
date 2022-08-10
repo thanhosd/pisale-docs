@@ -28,7 +28,7 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 **Nổi bật**
 
-Lựa chọn trạng thái hiển thị cho nhà sản xuất trên website
+Lựa chọn trạng thái hiển thị cho nhà sản xuất trên website khi cấu hình mô đun danh sách nhà sản xuất
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Thứ tự**
