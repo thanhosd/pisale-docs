@@ -1,23 +1,29 @@
 # Thành viên
 
 ## Thêm thành viên mới
+
 Để thêm một thành viên mới, bạn cần:
 
 Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên**. Những thông tin cần điền như sau:
 
 **Tên đăng nhập**
+
 Nhập vào tên đăng nhập của tài khoản. _(ví dụ: admin)_
 
 **Họ và tên**
+
 Nhập vào họ tên người dùng. Tên thành viên này được hiển thị tại bài tin nếu thành viên đăng nhập vào quản trị website và đăng bài tin  _(ví dụ: Nguyễn Hoàng Quân)_
 
 **Email**
+
 Nhập vào địa chỉ email người dùng _(ví dụ: info@osd.vn)_
 
 **Vai trò**
+
 Lựa chọn nhóm tài khoản cho người dùng để phân quyền. Có 1 nhóm được thiết lập sẵn là nhóm Quản trị hệ thống (là nhóm có quyền cao nhất của hệ thống)
 
 **Mật khẩu**
+
 Nhập vào mật khẩu của tài khoản.
 Mật khẩu phải thỏa mãn đồng thời điều kiện sau:
 - Độ dài từ 8 đến 20 ký tự
@@ -27,9 +33,11 @@ Mật khẩu phải thỏa mãn đồng thời điều kiện sau:
 - Có tối thiểu 1 ký tự đặc biệt.
 
 **Xác nhận mật khẩu**
+
 Nhập lại mật khẩu của tài khoản
 
 **Trạng thái**
+
 Lựa chọn trạng thái hoạt động của tài khoản này (Bật: cho phép hoạt động/Tắt: không cho phép hoạt động)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
