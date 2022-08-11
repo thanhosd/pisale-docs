@@ -35,7 +35,7 @@ Dể upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện
 
 **Banner**
 
-Dể upload được ảnh, bạn cần nhấp chuột tại ảnh bannern, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Để upload được ảnh, bạn cần nhấp chuột tại ảnh bannern, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 
