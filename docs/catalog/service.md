@@ -1,20 +1,20 @@
-# Sản phẩm
+# Dịch vụ
  
-# Thêm bài sản phẩm mới
+# Thêm bài dịch vụ mới
 
-Để thêm một bài sản phẩm, bạn cần:
+Để thêm một bài dịch vụ, bạn cần:
 
-Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Dịch vụ -> Thêm**. Những thông tin cụ thể cần điền như sau:
 
-_Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
+_Chú ý: Bạn bắt buộc phải nhập tên cho bài dịch vụ._
 
-**Tên sản phẩm**
+**Tên dịch vụ**
 
-Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
+Nhập tên dịch vụ bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của dịch vụ. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
@@ -22,22 +22,26 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Nhóm sản phẩm**
+**Thư viện ảnh**
 
-Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài dịch vụ.
 
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
+**Nhóm dịch vụ**
 
-**Mã sản phẩm**
+Chọn nhóm dịch vụ đã được tạo tại **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ**. Hạn chế thêm dịch vụ vào nhiều nhóm dịch vụ có cùng cấp.
 
-Là một dạng quy ước giúp phân loại sản phẩm.
+Xem thêm cách tạo [nhóm dịch vụ](https://mkmate.osd.vn/docs/catalog/service_cat)
+
+**Mã dịch vụ**
+
+Là một dạng quy ước giúp phân loại dịch vụ.
 
 **Giá**
 
-Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
+Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một dịch vụ.
 
 **Mục lục tự động**
 
@@ -49,29 +53,37 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Ngày xuất bản**
 
-Lựa chọn ngày xuất bản cho bài sản phẩm
+Lựa chọn ngày xuất bản cho bài dịch vụ
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Lựa chọn trạng thái hiển thị cho bài dịch vụ (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 **Thứ tự**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Thư viện ảnh**
+**Số bầu chọn**
 
-Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp
 
-**Sản phẩm liên quan**
+**Tổng điểm** 
 
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
+
+**Kết quả** 
+
+Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn
+
+**Dịch vụ liên quan**
+
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
 **Tin bài liên quan**
 
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
-**Câu hỏi thường gặp**
+**FAQs**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
@@ -81,24 +93,24 @@ Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
-### Có 2 lựa chọn lưu bài sản phẩm
+### Có 2 lựa chọn lưu bài dịch vụ
 
-Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài sản phẩm vừa thêm mới đó.
+Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài dịch vụ vừa thêm mới đó.
 
-Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
+Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang dịch vụ mới để bạn tiếp tục thêm.
 
-## Xóa bài sản phẩm
+## Xóa bài dịch vụ
 
-Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
+Để xóa một bài dịch vụ, tích vào bài dịch vụ đó và chọn **Xóa** từ danh sách checkbox.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài dịch vụ đó.
 
-## Sửa một bài viết sản phẩm
+## Sửa một bài viết dịch vụ
 
-Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
+Nhấn chọn trực tiếp vào bài dịch vụ để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
 
-## Nhân bản bài sản phẩm
+## Nhân bản bài dịch vụ
 
-Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
