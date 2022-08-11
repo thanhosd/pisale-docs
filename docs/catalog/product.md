@@ -14,11 +14,17 @@ Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Mô tả ngắn cho website hay còn gọi là sapo, là phần nội dung mở đầu của một bài viết, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, những đặc điểm nổi bật nhất của sản phẩm. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
 
-**Nội dung**
+**Mô tả chi tiết**
 
 Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+
+**Thông tin ưu đãi/ Tiêu chuẩn hàng hóa**
+
+Nhập thông tin ưu đãi cho sản phẩm.
+
+![Thông tin ưu đãi/ Tiêu chuẩn hàng hóa](img/san-pham.jpg)
 
 **Ảnh đại diện**
 
