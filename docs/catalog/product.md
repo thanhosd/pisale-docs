@@ -26,28 +26,20 @@ Nhập thông tin ưu đãi cho sản phẩm
 
 ![Thông tin ưu đãi/ Tiêu chuẩn hàng hóa](img/san-pham.jpg)
 
-**Ảnh đại diện**
+**Thư viện ảnh**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Nhấn chọn **Chọn ảnh** để lựa chọn tập tin hình ảnh cùng loại sản phẩm từ máy tính và tải lên
+
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Nhóm sản phẩm**
-
-Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
-
-**Mã sản phẩm**
-
-Là một dạng quy ước giúp phân loại sản phẩm.
-
-**Giá**
+**Giá bán**
 
 Là biểu hiện bằng tiền của giá trị hàng hoá, nghĩa là số lượng tiền phải trả cho một sản phẩm.
 
-**Mục lục tự động**
+**Model**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
+Là một dạng quy ước giúp phân loại sản phẩm.
 
 **Nổi bật**
 
@@ -56,6 +48,22 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 **Ngày xuất bản**
 
 Lựa chọn ngày xuất bản cho bài sản phẩm
+
+**Số lượng**
+
+Nhập số lượng cho sản phẩm. Điền số 0 thì khi xem ngoài sản phẩm sẽ hiển thị tình trạng là **tạm hết hàng**
+
+**Nhóm sản phẩm**
+
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+
+Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
+
+
+**Mục lục tự động**
+
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
+
 
 **Trạng thái**
 
