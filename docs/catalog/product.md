@@ -71,7 +71,6 @@ Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/se
 
 Chọn hãng sản xuất đã được tạo tại **Nội dung -> Nhà sản xuất**
 
-
 **Sản phẩm liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
@@ -79,6 +78,12 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc d
 **Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
+
+**Tùy chọn**
+
+
+
+**Đặc tính sản phẩm**
 
 **Câu hỏi thường gặp**
 
