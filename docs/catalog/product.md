@@ -24,7 +24,7 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 
 Nhập thông tin ưu đãi cho sản phẩm
 
-![Cấu hình email với giao thức SMPT](img/email-smtp.png)
+![Thông tin ưu đãi/ Tiêu chuẩn hàng hóa](img/san-pham.jpg)
 
 **Ảnh đại diện**
 
