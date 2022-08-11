@@ -10,7 +10,7 @@ Nhấn chọn **Nội dung -> Thông tin -> Thêm**. Những thông tin cụ th�
 
 **Tiêu đề**
 
-Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiên. Là một phần quan trọng hàng đầu của bài viết.
+Nhập tiêu đề cho bài thông tin
 
 **Phụ đề**
 
@@ -27,13 +27,17 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
-**Trạng thái**
+**Kiểu trình bày**
 
-Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Lựa chọn kiểu trình bày tại danh sách thả xuống
 
 **Thứ tự**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+
+**Trạng thái**
+
+Lựa chọn trạng thái hiển thị bài thông tin (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 

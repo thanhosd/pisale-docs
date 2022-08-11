@@ -24,10 +24,6 @@ Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https:/
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
 
-**URL download tài nguyên**
-
-Dán đường dẫn URL (liên kết) phù hợp với thông tin bài tin, để người dùng download về máy tính cá nhân
-
 **Ảnh đại diện**
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
@@ -49,7 +45,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị trên trang chủ website khi cấu hình mô đun trình bày tin bài với sắp xếp theo nhãn Nổi bật
+Tích chọn nếu muốn hiển thị trên trang chủ website khi cấu hình mô đun trình bày tin bài với sắp xếp theo nhãn **Nổi bật**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/design/modules/news)
 
@@ -65,6 +61,18 @@ Lựa chọn trạng thái hiển thị tin bài (Bật: cho phép hiển thị/
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
+**Số bầu chọn**
+
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
+
+**Tổng điểm** 
+
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
+
+**Kết quả** 
+
+Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn
+
 **Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp. Được hiển thị phía đầu nội dung bài tin, trình bày dạng bullet
@@ -72,6 +80,10 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
+
+**Mã nhúng**
+
+Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
 Nhấn chọn **Lưu** để hoàn tất.
 
