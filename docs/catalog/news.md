@@ -63,9 +63,15 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 **Số bầu chọn**
 
-**Tổng điểm**
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
 
-**Kết quả**
+**Tổng điểm** 
+
+Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
+
+**Kết quả** 
+
+Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn
 
 **Tin bài liên quan**
 
