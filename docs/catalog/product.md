@@ -106,7 +106,6 @@ Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản p
 **Xóa ảnh**: nhấn chọn nút **Xóa ảnh** để xóa ảnh đại diện của nhóm đặc tính
 **Xóa**: nhấn chọn nút **Xóa** để xóa đặc tính
 
-
 **Câu hỏi thường gặp**
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
