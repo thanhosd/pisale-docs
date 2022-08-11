@@ -136,4 +136,12 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **
 
 ## Nhân bản bài sản phẩm
 
-Chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+
+## Sửa giá nhanh cho bài sản phẩm
+
+Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi
+
+## Thay đổi trạng thái bài sản phẩm
+
+Tại danh sách bài sản phẩm, nhấn chọn nút **Bật** hoặc **Tắt**
