@@ -91,6 +91,10 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
+**Mã nhúng**
+
+Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
+
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ### Có 2 lựa chọn lưu bài dịch vụ
