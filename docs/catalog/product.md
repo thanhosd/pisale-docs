@@ -71,6 +71,10 @@ Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/se
 
 Chọn hãng sản xuất đã được tạo tại **Nội dung -> Nhà sản xuất**
 
+**Tag**
+
+Nhập từ khóa cho sản phẩm và ngăn cách nhau bằng dấu phẩy
+
 **Sản phẩm liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
@@ -80,10 +84,28 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc d
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
 **Tùy chọn**
+Nhập tên tùy chọn để thêm
+Tích tại trường "Buộc phải chọn khi đặt hàng"
 
-
+**Mục tùy chọn**: chọn tùy chọn đã được thiết lập tại **Nội dung -> Nhóm và danh mục -> Tùy chọn**
+**SKU**: đơn vị quản lý kho
+**Giá bán**: lựa chọn đơn vị + hoặc - và nhập giá bán cho mỗi tùy chọn tương ứng. Ví dụ
+**Số lượng**: nhập số lượng cho tùy chọn sản phẩm
+**Xóa**: nhấn nút xóa để **Xóa** 1 tùy chọn
+**Xóa tùy chọn**: nhấn nút **Xóa tùy chọn** để xóa nhóm tùy chọn đó
+**Thêm mục tùy chọn**: nhân chọn thêm để thêm nhiều tùy chọn khác nhau
 
 **Đặc tính sản phẩm**
+
+Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản phẩm
+**Chọn ảnh**: nhấn chọn nút **Chọn ảnh** để tải ảnh của nhóm đặc tính
+**Đặc tính**: được hiển thị tự động theo nhóm đặc tính đã thiết lập tại **Nội dung -> Nhóm và danh mục -> Đặc tính sản phẩm -> Đặc tính**
+**Giá trị**: nhập giá trị mỗi đặc tính
+**Thứ tự**: được hiển thị tự động sắp xếp từ lớn đến bé
+**Thêm đặc tính**: nhấn chọn thêm để thêm đặc tính. Cần chọn nhóm đặc tính và đặc tính tương ứng
+**Xóa ảnh**: nhấn chọn nút **Xóa ảnh** để xóa ảnh đại diện của nhóm đặc tính
+**Xóa**: nhấn chọn nút **Xóa** để xóa đặc tính
+
 
 **Câu hỏi thường gặp**
 
@@ -95,7 +117,7 @@ Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
-### Có 2 lựa chọn lưu bài sản phẩm
+### Có 2 cách lưu bài sản phẩm
 
 Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài sản phẩm vừa thêm mới đó.
 
