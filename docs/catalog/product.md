@@ -51,19 +51,7 @@ Lựa chọn ngày xuất bản cho bài sản phẩm
 
 **Số lượng**
 
-Nhập số lượng cho sản phẩm. Điền số 0 thì khi xem ngoài sản phẩm sẽ hiển thị tình trạng là **tạm hết hàng**
-
-**Nhóm sản phẩm**
-
-Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
-
-
-**Mục lục tự động**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
-
+Nhập số lượng cho sản phẩm. Điền số 0 thì khi xem ngoài sản phẩm sẽ hiển thị tình trạng là **Tạm hết hàng**
 
 **Trạng thái**
 
@@ -73,17 +61,24 @@ Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép 
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
-**Thư viện ảnh**
+**Nhóm sản phẩm**
 
-Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài sản phẩm.
+Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+
+Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
+
+**Hãng sản xuất**
+
+Chọn hãng sản xuất đã được tạo tại **Nội dung -> Nhà sản xuất**
+
 
 **Sản phẩm liên quan**
 
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
 **Tin bài liên quan**
 
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp
+Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
 **Câu hỏi thường gặp**
 
