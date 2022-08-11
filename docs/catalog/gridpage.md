@@ -26,7 +26,7 @@ Tùy chỉnh màn hình Mobile:
 
 Những thông tin cụ thể cần điền như sau:
 
-**Tiêu đề**
+**Tên longform**
 
 Nhập tên bài viết bạn muốn hiển thị trên wesbite
 
@@ -59,17 +59,9 @@ Xem trước
 
 Desktop, Tablet, Mobile
 
-**Câu hỏi thường gặp**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
-
 **Ảnh đại diện**
 
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên (nếu có)
-
-**Nhóm long form**
-
-Chọn nhóm longform đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm Longform**. Hạn chế thêm bài longform vào nhiều nhóm longform có cùng cấp.
+Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 
 **Thứ tự**
 
@@ -82,6 +74,10 @@ Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển t
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+
+**Mã nhúng**
+
+Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
 Nhấn chọn **Lưu** để hoàn tất.
 
@@ -98,4 +94,3 @@ Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác n
 ## Sửa bài longform
 
 Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, bạn cần nhấn **Lưu** để cập nhật.
-
