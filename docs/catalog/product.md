@@ -14,7 +14,7 @@ Nhập tên sản phẩm bạn muốn hiển thị trên wesbite
 
 **Mô tả ngắn**
 
-Nhập mô tả ngắn cho bài sản phẩm. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả cho sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Mô tả chi tiết**
 
@@ -22,9 +22,9 @@ Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính nă
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa**
 
-Nhập thông tin ưu đãi cho sản phẩm.
+Nhập thông tin ưu đãi cho sản phẩm
 
-![Thông tin ưu đãi/ Tiêu chuẩn hàng hóa](img/san-pham.jpg)
+![Cấu hình email với giao thức SMPT](img/email-smtp.png)
 
 **Ảnh đại diện**
 
