@@ -19,7 +19,7 @@ Là phần nội dung mở đầu của một nhóm chuyên mục, nhằm giới
 
 Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
 
-**Hình ảnh**:
+**Ảnh đại diện**:
 
 Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
