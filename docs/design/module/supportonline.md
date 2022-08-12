@@ -6,7 +6,7 @@ Là dịch vụ trực tuyến dành cho doanh nghiệp với khách hàng, thư
 
 Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình**
 
-Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
+Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
 **Chọn kênh liên lạc**
 

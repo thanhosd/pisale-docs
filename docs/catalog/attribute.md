@@ -10,7 +10,7 @@ Nhập tên đặc tính
 
 **Nhóm đặc tính**
 
-Chọn nhóm đặc tính đã tạo tại mục **Nội dung -> Nhóm và danh mục -> Nhóm đặc tính
+Chọn nhóm đặc tính đã tạo tại mục **Nội dung -> Nhóm và danh mục -> Nhóm đặc tính**
 
 **Thứ tự**
 
