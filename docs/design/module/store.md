@@ -52,6 +52,8 @@ Lựa chọn kiểu trình diễn cho mô đun tại danh sách thả xuống. C
 
 Điền số mục trên mobile cho mô đun
 
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+
 ## Xóa mô đun hệ thống cửa hàng
 
 Nhấn chọn **Xóa** tại mô đun muốn xóa, hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** 
