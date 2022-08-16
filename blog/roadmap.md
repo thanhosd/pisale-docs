@@ -12,7 +12,7 @@ tags: [roadmap,pisale]
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [ ] 🐱‍💻 Admin Tasks
-6. - [ ] 🐱‍💻 MySQL Console: doing
+6. - [x] MySQL Console
 7. - [x] Quản lý broken link: mức cơ bản
 8. - [x] Hỗ trợ ảnh webp
 9. - [x] Ajax admin
