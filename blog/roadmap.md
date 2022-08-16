@@ -31,6 +31,7 @@ tags: [roadmap,pisale]
 22. - [x] 🐛 Fix lỗi bật tắt tác giả/ lượt xem, tin bài của chuyên mục khi xem chi tiết tin tức
 23. - [x] 🐛 Lỗi tạo menu item cấp 2
 24. - [x] 🐞 Lỗi: Gửi email thông báo khi cho nhiều admin cùng 1 lúc
+25. - [x] Đếm lượt reach của 404 link
 
 ## 2022-12-31. V6.5.0
 1. - [ ] Tối ưu hóa backup
