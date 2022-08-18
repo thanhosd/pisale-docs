@@ -12,7 +12,7 @@ tags: [roadmap,pisale]
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
 4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [ ] 🐱‍💻 Admin Tasks
-6. - [ ] 🐱‍💻 MySQL Console: doing
+6. - [x] MySQL Console
 7. - [x] Quản lý broken link: mức cơ bản
 8. - [x] Hỗ trợ ảnh webp
 9. - [x] Ajax admin
@@ -20,7 +20,7 @@ tags: [roadmap,pisale]
 11. - [x] Sửa giao diện tùy chọn sản phẩm
 12. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 13. - [ ] Bộ lọc sản phẩm
-14. - [x] 🐱‍💻 Tracking code
+14. - [x] Tracking code
 15. - [x] Admin notification
 16. - [x] Hỗ trợ redirect 301, 302
 17. - [ ] Customize những trang đặc biệt: SEO, title, description
@@ -31,6 +31,7 @@ tags: [roadmap,pisale]
 22. - [x] 🐛 Fix lỗi bật tắt tác giả/ lượt xem, tin bài của chuyên mục khi xem chi tiết tin tức
 23. - [x] 🐛 Lỗi tạo menu item cấp 2
 24. - [x] 🐞 Lỗi: Gửi email thông báo khi cho nhiều admin cùng 1 lúc
+25. - [x] Đếm lượt reach của 404 link
 
 ## 2022-12-31. V6.5.0
 1. - [ ] Tối ưu hóa backup
