@@ -101,9 +101,9 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 
 Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản phẩm
 - **Chọn ảnh**: nhấn chọn nút **Chọn ảnh** để tải ảnh của nhóm đặc tính
-- **Đặc tính**: được hiển thị tự động theo nhóm đặc tính đã thiết lập tại **Nội dung -> Nhóm và danh mục -> Đặc tính sản phẩm -> Đặc tính**
+- **Đặc tính**: được hiển thị tự động theo nhóm đặc tính đã thiết lập [tại đây](https://pisale.osd.vn/docs/catalog/attribute)
 - **Giá trị**: nhập giá trị mỗi đặc tính
-- **Thứ tự**: được hiển thị tự động sắp xếp từ lớn đến bé
+- **Thứ tự**: xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 - **Thêm đặc tính**: nhấn chọn thêm để thêm đặc tính. Cần chọn nhóm đặc tính và đặc tính tương ứng
 - **Xóa ảnh**: nhấn chọn nút **Xóa ảnh** để xóa ảnh đại diện của nhóm đặc tính
 - **Xóa**: nhấn chọn nút **Xóa** để xóa đặc tính
