@@ -100,7 +100,7 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 
 ![thong-so-ky-thuat.jpg](img/thong-so-ky-thuat.jpg)
 
-Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản phẩm
+Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn nhóm đặc tính và đặc tính của sản phẩm
 
 - **Chọn ảnh**: nhấn chọn nút **Chọn ảnh** để tải ảnh của nhóm đặc tính
 - **Đặc tính**: được hiển thị tự động theo nhóm đặc tính đã thiết lập [tại đây](https://pisale.osd.vn/docs/catalog/attribute)
@@ -118,13 +118,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
-
-### Có 2 cách lưu bài sản phẩm
-
-Khi bạn nhấn chọn **Lưu**, hệ thống thông báo lưu thành công và ở tại cùng 1 cửa sổ màn hình bài sản phẩm vừa thêm mới đó.
-
-Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lưu dữ liệu và mở một trang sản phẩm mới để bạn tiếp tục thêm.
+Nhấp chuột vào nút **Lưu** (icon màu xanh) để hoàn tất.
 
 ## Xóa bài sản phẩm
 
