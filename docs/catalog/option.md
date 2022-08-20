@@ -12,10 +12,6 @@ Nhập tên tùy chọn
 **Loại**
 Chọn loại là **Select**
 
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
 **Tên giá trị tuỳ chọn**
 Dựa vào mục đích của sản phẩm để thêm tùy chọn tương ứng
 
@@ -24,7 +20,7 @@ Nhấn chọn **Chọn ** để lựa chọn tập tin hình ảnh của tùy ch
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Thêm mục tùy chọn**
 

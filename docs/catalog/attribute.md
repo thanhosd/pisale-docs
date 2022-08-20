@@ -14,7 +14,7 @@ Chọn nhóm đặc tính đã tạo tại mục **Nội dung -> Nhóm và danh 
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -22,7 +22,7 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 Để xóa đặc tính, tích vào đặc tính đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa đặc tính đó.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa đặc tính
 

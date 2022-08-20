@@ -27,15 +27,11 @@ Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh s
 
 Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện**
+**Ảnh đại diện/Banner**
 
-Dể upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
-
-**Banner**
-
-Để upload được ảnh, bạn cần nhấp chuột tại ảnh bannern, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 
@@ -43,27 +39,28 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Thêm 1 bước cấu hình mô đun nhóm sản phẩm tại **Giao diện -> Mô đun -> Nhóm sản phẩm**
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Thêm 1 bước cấu hình mô đun nhóm sản phẩm [tại đây](https://pisale.osd.vn/docs/design/module/category)
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Tab mở rộng**
-Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình tại **Hệ thống -> Quản lý mẫu -> Mẫu nội dung**
+Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình [tại đây](https://pisale.osd.vn/docs/setting/pattern)
+
 ![Mẫu nội dung](img/nhom-san-pham.jpg)
 
 ![Mẫu nội dung](img/nhom-san-pham-1.jpg)
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị cho nhóm sản phẩm trên website (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -71,7 +68,7 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 Để xóa một nhóm sản phẩm, tích vào nhóm sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa nhóm sản phẩm** trong mỗi nhóm sản phẩm chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa nhóm sản phẩm đó.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhóm sản phẩm
 

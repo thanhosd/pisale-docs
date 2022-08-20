@@ -14,15 +14,15 @@ Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạ
 
 Tùy chỉnh màn hình Desktop:
 
-![long-form-1.jpg](img/long-form-1.jpg)
+![longform-1.jpg](img/longform-1.jpg)
 
 Tùy chỉnh màn hình Tablet:
 
-![long-form-2.jpg](img/long-form-2.jpg)
+![longform-2.jpg](img/longform-2.jpg)
 
 Tùy chỉnh màn hình Mobile:
 
-![long-form-3.jpg](img/long-form-3.jpg)
+![longform-3.jpg](img/longform-3.jpg)
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -65,15 +65,15 @@ Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị bài longform (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 **Mã nhúng**
 
@@ -85,11 +85,15 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa 1 bài longform
 
-Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa.
+
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Xóa 1 cột nội dung trong bài longform
 
-Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau **Delete column?** Bạn chọn **Ok**
+Nhấn chọn icon thùng rác tại mỗi cột nội dung. 
+
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa bài longform
 
