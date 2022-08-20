@@ -23,11 +23,11 @@ Nhập mô tả cho nhóm dịch vụ. Được hiển thị phía trên danh s�
 
 Nhập mô tả cho nhóm dịch vụ. Được hiển thị phía dưới danh sách các bài dịch vụ.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**
 
-Để upload được ảnh, bạn cần nhấp chuột tại **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Để upload được ảnh, bạn cần nhấp chuột tại **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 
