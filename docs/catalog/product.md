@@ -81,6 +81,8 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc d
 
 **Tùy chọn**
 
+![tuy-chon.jpg](img/tuy-chon.jpg)
+
 - Nhập tên tùy chọn để thêm -> Thêm mục tùy chọn
 - Tích tại trường "Buộc phải chọn khi đặt hàng"
 
