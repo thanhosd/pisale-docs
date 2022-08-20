@@ -17,11 +17,12 @@ Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa c
 
 Nhập nội dung mô tả chuyên mục tin bài
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo[tại đây](https://pisale.osd.vn/docs/common/tinymce)
+
 
 **Ảnh đại diện**:
 
-Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**:
 
@@ -68,7 +69,7 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 *Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description.
 Meta title*
 
-Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 Nhấn chọn **Lưu** để hoàn tất.
 
