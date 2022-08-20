@@ -18,7 +18,7 @@ Nhập mô tả cho sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Mô tả chi tiết**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://pisale.osd.vn/docs/common/tinymce)
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa**
 
@@ -31,7 +31,7 @@ Nhập thông tin ưu đãi cho sản phẩm
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 Nhấn chọn **Chọn ảnh** để lựa chọn tập tin hình ảnh cùng loại sản phẩm từ máy tính và tải lên
 
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Giá bán**
 
@@ -43,7 +43,7 @@ Là một dạng quy ước giúp phân loại sản phẩm.
 
 **Nổi bật**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Ngày xuất bản**
 
@@ -59,13 +59,13 @@ Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép 
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Nhóm sản phẩm**
 
 Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
-Xem thêm cách tạo [nhóm sản phẩm](https://mkmate.osd.vn/docs/catalog/service_cat)
+Xem thêm cách tạo [nhóm sản phẩm](https://pisale.osd.vn/docs/catalog/category)
 
 **Hãng sản xuất**
 
@@ -75,20 +75,18 @@ Chọn hãng sản xuất đã được tạo tại **Nội dung -> Nhà sản x
 
 Nhập từ khóa cho sản phẩm và ngăn cách nhau bằng dấu phẩy
 
-**Sản phẩm liên quan**
-
-Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
-
-**Tin bài liên quan**
+**Sản phẩm liên quan/Tin bài liên quan**
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc danh sách cho bạn lựa chọn bài phù hợp
 
 **Tùy chọn**
 
-- Nhập tên tùy chọn để thêm
+- Nhập tên tùy chọn để thêm -> Thêm mục tùy chọn
 - Tích tại trường "Buộc phải chọn khi đặt hàng"
 
-**Mục tùy chọn**: chọn tùy chọn đã được thiết lập tại **Nội dung -> Nhóm và danh mục -> Tùy chọn**
+_Các trường tùy chọn cần nhập nội dung như sau:_
+
+- **Mục tùy chọn**: chọn tùy chọn đã được thiết lập tại **Nội dung -> Nhóm và danh mục -> Tùy chọn**
 - **SKU**: đơn vị quản lý kho
 - **Giá bán**: lựa chọn đơn vị + hoặc - và nhập giá bán cho mỗi tùy chọn tương ứng. Ví dụ
 - **Số lượng**: nhập số lượng cho tùy chọn sản phẩm
@@ -109,11 +107,11 @@ Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản p
 
 **Câu hỏi thường gặp**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
@@ -127,7 +125,7 @@ Khi bạn lựa chọn **Lưu và thêm**, hệ thống đồng thời vừa lư
 
 Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa bài sản phẩm đó.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một bài viết sản phẩm
 
@@ -142,7 +140,3 @@ Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ d
 ## Sửa giá nhanh cho bài sản phẩm
 
 Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi
-
-## Thay đổi trạng thái bài sản phẩm
-
-Tại danh sách bài sản phẩm, nhấn chọn nút **Bật** hoặc **Tắt**
