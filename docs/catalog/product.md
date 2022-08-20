@@ -55,7 +55,7 @@ Nhập số lượng cho sản phẩm. Điền số 0 thì khi xem ngoài sản 
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị cho bài sản phẩm (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Thứ tự**
 
@@ -63,13 +63,13 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 **Nhóm sản phẩm**
 
-Chọn nhóm sản phẩm đã được tạo tại **Nội dung => Nhóm và danh mục => Nhóm sản phẩm**. Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
+Chọn nhóm sản phẩm đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/category). Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
 Xem thêm cách tạo [nhóm sản phẩm](https://pisale.osd.vn/docs/catalog/category)
 
 **Hãng sản xuất**
 
-Chọn hãng sản xuất đã được tạo tại **Nội dung -> Nhà sản xuất**
+Chọn hãng sản xuất đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/manufacturer)
 
 **Tag**
 
