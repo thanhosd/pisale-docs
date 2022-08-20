@@ -20,7 +20,7 @@ Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đ
 
 **Ảnh đại diện/Banner**
 
-Chọn ảnh đại diện/Chọn banner, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Chọn ảnh đại diện/Chọn banner, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
@@ -28,7 +28,7 @@ Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/fin
 
 Lựa chọn trạng thái hiển thị cho nhà sản xuất trên website khi cấu hình mô đun danh sách nhà sản xuất
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Thứ tự**
 
