@@ -18,7 +18,7 @@ Nhập mô tả cho sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Mô tả chi tiết**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://pisale.osd.vn/docs/common/tinymce)
+Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm các tính năng trên thanh công cụ trình soạn thảo[tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa**
 
