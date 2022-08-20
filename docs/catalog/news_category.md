@@ -17,7 +17,7 @@ Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa c
 
 Nhập nội dung mô tả chuyên mục tin bài
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo[tại đây](https://pisale.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện**:
 
