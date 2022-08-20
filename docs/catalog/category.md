@@ -27,7 +27,7 @@ Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh s
 
 Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://pisale.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
 **Ảnh đại diện/Banner**
 
@@ -38,12 +38,13 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 
 **Nổi bật**
 
-Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Thêm 1 bước cấu hình mô đun nhóm sản phẩm tại **Giao diện -> Mô đun -> Nhóm sản phẩm**
+Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang chủ website. Thêm 1 bước cấu hình mô đun nhóm sản phẩm [tại đây](https://pisale.osd.vn/docs/design/module/category)
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Tab mở rộng**
-Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình tại **Hệ thống -> Quản lý mẫu -> Mẫu nội dung**
+Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình [tại đây](https://pisale.osd.vn/docs/setting/pattern)
+
 ![Mẫu nội dung](img/nhom-san-pham.jpg)
 
 ![Mẫu nội dung](img/nhom-san-pham-1.jpg)
