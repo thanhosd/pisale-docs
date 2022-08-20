@@ -28,7 +28,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên
 
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Chuyên mục**
 
