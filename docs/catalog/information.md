@@ -20,11 +20,12 @@ Nhập tiêu đề cho bài thông tin
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://pisale.osd.vn/docs/common/tinymce/)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
 
 **Ảnh đại diện**
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
+
 Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Kiểu trình bày**
