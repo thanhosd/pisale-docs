@@ -83,12 +83,13 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc d
 
 ![tuy-chon.jpg](img/tuy-chon.jpg)
 
-- Nhập tên tùy chọn để thêm -> Thêm mục tùy chọn
-- Tích tại trường "Buộc phải chọn khi đặt hàng"
+- Nhập tên tùy chọn để thêm (1)
+- Tích tại trường "Buộc phải chọn khi đặt hàng" (2)
+- Thêm mục tùy chọn (3)
 
 _Các trường tùy chọn cần nhập nội dung như sau:_
 
-- **Mục tùy chọn**: chọn tùy chọn đã được thiết lập tại **Nội dung -> Nhóm và danh mục -> Tùy chọn**
+- **Tên tùy chọn**: chọn tùy chọn đã được thiết lập [tại đây](https://pisale.osd.vn/docs/catalog/option) (4)
 - **SKU**: đơn vị quản lý kho
 - **Giá bán**: lựa chọn đơn vị + hoặc - và nhập giá bán cho mỗi tùy chọn tương ứng. Ví dụ
 - **Số lượng**: nhập số lượng cho tùy chọn sản phẩm
