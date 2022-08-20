@@ -31,7 +31,7 @@ Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đ
 
 **Ảnh đại diện/Banner**
 
-Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder#nh%E1%BB%AFng-t%C3%ADnh-n%C4%83ng-c%C6%A1-b%E1%BA%A3n)
+Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 
@@ -60,7 +60,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/seo/serp)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
 
