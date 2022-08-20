@@ -28,8 +28,7 @@ Nhập thông tin ưu đãi cho sản phẩm
 
 **Thư viện ảnh**
 
-Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-Nhấn chọn **Chọn ảnh** để lựa chọn tập tin hình ảnh cùng loại sản phẩm từ máy tính và tải lên
+Nhấn chọn **Chọn ảnh đại diện/Chọn ảnh** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
 
 Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
