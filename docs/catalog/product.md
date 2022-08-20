@@ -98,7 +98,10 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 
 **Đặc tính sản phẩm**
 
+![thong-so-ky-thuat.jpg](img/thong-so-ky-thuat.jpg)
+
 Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn đặc tính sản phẩm
+
 - **Chọn ảnh**: nhấn chọn nút **Chọn ảnh** để tải ảnh của nhóm đặc tính
 - **Đặc tính**: được hiển thị tự động theo nhóm đặc tính đã thiết lập [tại đây](https://pisale.osd.vn/docs/catalog/attribute)
 - **Giá trị**: nhập giá trị mỗi đặc tính
