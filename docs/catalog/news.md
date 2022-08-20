@@ -12,28 +12,29 @@ Tiêu đề là phần độc giả nhìn thấy và đọc được đầu tiê
 
 **Mô tả ngắn (Chapeau)**
 
-Là phần nội dung mở đầu của một tin bài, nhằm giới thiệu hoặc tóm tắt nội dung ngắn gọn, cô đọng, xúc tích, tạo ra trong bản tin một nhịp điệu giữa các chủ đề tin bài. Độ dài khoảng 160-320 ký tự.
+Nhập mô tả ngắn cho tin bài. Độ dài khoảng 160-320 ký tự.
 
 **Nội dung**
 
 Trình bày thông tin có mục đích hướng tới độc giả.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
 
 **Câu hỏi thường gặp**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/faqs)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
+Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên
+
 Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Chuyên mục**
 
 Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
-Xem thêm cách tạo [chuyên mục tin](https://mkmate.osd.vn/docs/catalog/categories/)
+Xem thêm cách tạo [chuyên mục tin](https://pisale.osd.vn/docs/catalog/news_category)
 
 **Tag**
 
@@ -41,13 +42,13 @@ Nhập từ khóa cho tin bài và ngăn cách nhau bằng dấu phẩy
 
 **Mục lục tự động**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/toc)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/toc)
 
 **Nổi bật**
 
 Tích chọn nếu muốn hiển thị trên trang chủ website khi cấu hình mô đun trình bày tin bài với sắp xếp theo nhãn **Nổi bật**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/design/modules/news)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/design/module/news)
 
 **Ngày hiển thị**
 
@@ -55,23 +56,19 @@ Lựa chọn ngày hiển thị cho tin bài
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị tin bài (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-**Số bầu chọn**
+**Số bầu chọn/Tổng điểm**
 
-Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
-
-**Tổng điểm** 
-
-Điền từ 1 đến 5. Sao cho kết quả bằng 5 là đẹp.
+Điền từ 1 đến 5
 
 **Kết quả** 
 
-Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn
+Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn. Sao cho kết quả bằng 5 là đẹp.
 
 **Tin bài liên quan**
 
@@ -79,7 +76,7 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc l
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
-Xem [tại đây](https://mkmate.osd.vn/docs/seo/serp/)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
 **Mã nhúng**
 
@@ -91,7 +88,7 @@ Nhấn chọn **Lưu** để hoàn tất.
 
 Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
-Cả 2 cách trên, khi click xóa hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tin bài đó.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một tin bài
 
