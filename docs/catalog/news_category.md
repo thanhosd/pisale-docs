@@ -19,7 +19,6 @@ Nhập nội dung mô tả chuyên mục tin bài
 
 Xem thêm các tính năng trên thanh công cụ trình soạn thảo[tại đây](https://pisale.osd.vn/docs/common/tinymce)
 
-
 **Ảnh đại diện**:
 
 Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
