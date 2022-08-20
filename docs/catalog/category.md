@@ -27,15 +27,10 @@ Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh s
 
 Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://mkmate.osd.vn/docs/common/tinymce)
+Xem thêm [các tính năng trên thanh công cụ trình soạn thảo](https://pisale.osd.vn/docs/common/tinymce)
 
-**Ảnh đại diện**
+**Ảnh đại diện/Banner**
 
-Dể upload được ảnh, bạn cần nhấp chuột tại ảnh đại diện, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
-
-**Banner**
-
-Để upload được ảnh, bạn cần nhấp chuột tại ảnh bannern, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Cấp danh mục cha**
 
