@@ -112,11 +112,9 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-t
 
 **Hiện tiêu đề**
 
-Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website
+Tích vào ô check box để hiển thị tên nhóm menu trên bố cục/vị trí của website. Hiển thị bên ngoài website như dưới đây:
 
-Hiển thị bên ngoài website như dưới đây
-
-![trinh-don-9.jpg](img/trinh-don-9.jpg)
+![](img/trinh-don-9.jpg)
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
 
@@ -130,4 +128,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa cấu hình trình đơn, nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**.
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Cập nhật menu** để hoàn tất.
