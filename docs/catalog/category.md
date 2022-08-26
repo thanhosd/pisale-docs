@@ -44,7 +44,7 @@ Tích chọn nếu muốn hiển thị nhóm danh mục sản phẩm lên trang 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#m%E1%BB%A5c-n%E1%BB%95i-b%E1%BA%ADt)
 
 **Tab mở rộng**
-Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình [tại đây](https://pisale.osd.vn/docs/setting/pattern)
+Nhập tên mẫu nội dung để tìm kiếm. Mẫu nội dung được thiết lập cấu hình [tại đây](https://pisale.osd.vn/docs/setting/pattern/#th%C3%AAm-m%E1%BA%ABu-n%E1%BB%99i-dung)
 
 ![Mẫu nội dung](img/nhom-san-pham.jpg)
 
