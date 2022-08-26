@@ -40,6 +40,6 @@ Chọn nhóm menu muốn hiển thị trên mobile
 **Tham số dịch vụ**
 - **Dịch vụ/1 trang**: giới hạn hiển thị số lượng bài dịch vụ trên 1 trang website
 - **Dịch vụ liên quan:** giới hạn hiển thị số lượng bài dịch vụ cùng nhóm dịch vụ tại mỗi bài dịch vụ chi tiết
-- **Ảnh đại diện dự án/Ảnh bìa thư viện ảnh**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
+- **Kích thước ảnh trang nhóm dịch vụ/Kích thước ảnh dịch vụ khác/Kích thước ảnh đại diện trang dịch vụ**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
