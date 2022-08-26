@@ -103,4 +103,4 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **
 
 ## Nhân bản bài dịch vụ
 
-Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
+Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** -> Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
