@@ -7,15 +7,19 @@ Nhấn chọn **Nội dung -> Nhóm và danh mục -> Tùy chọn -> Thêm**
 Trang tạo tùy chọn mới được mở ra, điền các thông tin chi tiết của nhóm tùy chọn đó.
 
 **Tên tùy chọn**
+
 Nhập tên tùy chọn 
 
 **Loại**
+
 Chọn loại là **Select**
 
 **Tên giá trị tuỳ chọn**
+
 Dựa vào mục đích của sản phẩm để thêm tùy chọn tương ứng
 
 **Ảnh đại diện**
+
 Nhấn chọn **Chọn ** để lựa chọn tập tin hình ảnh của tùy chọn từ máy tính và tải lên
 
 **Thứ tự**
@@ -32,7 +36,7 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 Để xóa tùy chọn, tích vào tùy chọn đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa tùy chọn đó.
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa tùy chọn
 

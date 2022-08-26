@@ -1,12 +1,8 @@
 # Nhận diện
 
-Logo sẽ giúp khách hàng nhớ đến thương hiệu của bạn dễ dàng hơn.
-
-Logo website sẽ được hiển thị góc trái hoặc giữa màn hình. Để cấu hình logo website bạn cần:
+Để cấu hình logo website bạn cần:
 
 Nhấn chọn **Giao diện -> Nhận diện**. Những thông tin - thiết lập cụ thể cần điền như sau:
-
-![nhandien.jpg (122 KB)](img/nhandien.jpg)
 
 **Logo**
 
@@ -16,24 +12,34 @@ Nhấn chọn **Chọn** để tải logo từ máy tính của bạn lên trìn
 
 Nhấn chọn **Chọn** để tải favicon từ máy tính của bạn lên trình quản lý file
 
-**Chiều rộng logo**
+**Chiều rộng/Chiều cao logo**
 
-Nhập kích thước chiều rộng logo
-
-**Chiều cao logo**
-
-Nhập kích thước chiều cao logo
+Nhập kích thước chiều rộng/chiều cao logo
 
 **Mobile menu**
 
-Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
+Chọn nhóm menu muốn hiển thị trên mobile
 
 **Template**
 
-Đây là cấu hình mang tính chất kỹ thuật, không được sửa phần này.
+Đây là cấu hình sẵn mang tính chất kỹ thuật, không được sửa phần này.
 
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
+**Tham số tin bài**
+
+- **Tin chuyên mục:** giới hạn hiển thị số lượng bài tin trên 1 trang website
+- **Tin liên quan:** giới hạn hiển thị số lượng bài tin liên quan được chọn trong mỗi tin bài chi tiết
+- **Tin khác:** giới hạn hiển thị số lượng bài tin cùng chuyên mục tại mỗi tin bài chi tiết
+- **Kích thước ảnh trang chuyên mục/Kích thước ảnh tin khác**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
+
+**Tham số sản phẩm**
+
+- **Sản phẩm/1 trang:** giới hạn hiển thị số lượng sản phẩm trên 1 trang website
+- **Sản phẩm liên quan:** giới hạn hiển thị số lượng sản phẩm cùng nhóm sản phẩm tại mỗi bài sản phẩm chi tiết
+- **Kích thước ảnh trang nhóm sản phẩm/Kích thước ảnh sản phẩm khác/Kích thước ảnh đại diện trang sản phẩm** : chọn kích thước ảnh có sẵn tại danh sách thả xuống
+
+**Tham số dịch vụ**
+- **Dịch vụ/1 trang**: giới hạn hiển thị số lượng bài dịch vụ trên 1 trang website
+- **Dịch vụ liên quan:** giới hạn hiển thị số lượng bài dịch vụ cùng nhóm dịch vụ tại mỗi bài dịch vụ chi tiết
+- **Kích thước ảnh trang nhóm dịch vụ/Kích thước ảnh dịch vụ khác/Kích thước ảnh đại diện trang dịch vụ**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
 
 Nhấp chuột vào nút **Lưu** để hoàn tất.
-
-**Tham số tin bài, Tham số sản phẩm, Tham số dịch vụ** là phân quyền tài khoản được cấu hình sẵn mang tính kĩ thuật. Bạn cần chú ý cẩn thận trước khi sửa/xóa các quyền.

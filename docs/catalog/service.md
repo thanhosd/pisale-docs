@@ -31,7 +31,7 @@ Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều �
 
 **Nhóm dịch vụ**
 
-Chọn nhóm dịch vụ đã được tạo tại **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ**. Hạn chế thêm dịch vụ vào nhiều nhóm dịch vụ có cùng cấp.
+Chọn nhóm dịch vụ đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/service_cat). Hạn chế thêm dịch vụ vào nhiều nhóm dịch vụ có cùng cấp.
 
 Xem thêm cách tạo [nhóm dịch vụ](https://pisale.osd.vn/docs/catalog/service_cat)
 
@@ -103,4 +103,4 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **
 
 ## Nhân bản bài dịch vụ
 
-Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
+Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** -> Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
