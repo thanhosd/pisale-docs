@@ -64,7 +64,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 Chọn nhóm sản phẩm đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/category). Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
 
-Xem thêm cách tạo [nhóm sản phẩm](https://pisale.osd.vn/docs/catalog/category)
+Xem thêm cách tạo nhóm sản phẩm [tại đây](https://pisale.osd.vn/docs/catalog/category)
 
 **Hãng sản xuất**
 
