@@ -6,7 +6,7 @@ tags: [roadmap,pisale]
 ---
 
 # Kế hoạch cải tiến sản phẩm
-## 2022-08-31. V6.0.5
+## 2022-09-15. V6.0.5
 1. - [ ] 🐱‍💻 Bổ sung chức năng coupon
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
@@ -24,7 +24,7 @@ tags: [roadmap,pisale]
 15. - [x] Admin notification
 16. - [x] Hỗ trợ redirect 301, 302
 17. - [ ] Customize những trang đặc biệt: SEO, title, description
-18. - [ ] 🐱‍💻 AMP-HTML cơ bản cho bài: tin tức, dịch vụ
+18. - [ ] 🐱‍💻 AMP-HTML cơ bản cho bài: tin tức, dịch vụ, sản phẩm
 19. - [ ] 🐱‍💻 Cookie Consent 
 20. - [x] Cho phép đặt số lượng vote => chống tấn công
 21. - [ ] 🐱‍💻 Giỏ hàng
