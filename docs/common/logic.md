@@ -3,7 +3,7 @@
 ## Thêm một mục
 Nhấn chọn nút (+) để thêm mới 1 mục
 
-## Lưu 1 mục
+## Lưu một mục
 Nhấn chọn nút (v) để lưu lại 1 mục
 
 ##  Xóa các mục, các thành phần, thông tin
