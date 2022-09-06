@@ -1,1 +1,9 @@
+{
+    "label": "Tích hợp",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "Tích hợp với phần mềm của bên thứ ba."
+    }
+}
 
