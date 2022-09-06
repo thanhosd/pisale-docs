@@ -1,5 +1,5 @@
 
-## Tích hợp Google Recaptcha
+# Tích hợp Google Recaptcha
 
 Việc tích hợp này giúp cho website tránh:
 * Bị spam đăng ký..
