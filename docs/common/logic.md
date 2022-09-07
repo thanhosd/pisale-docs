@@ -1,5 +1,5 @@
 
-# Logic sử dụng Mkmate
+# Logic sử dụng Pisale
 ## Thêm một mục
 Nhấn chọn nút (+) để thêm mới 1 mục
 
