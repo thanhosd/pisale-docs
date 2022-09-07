@@ -8,7 +8,7 @@ published: true
 
 # Hướng dẫn điền thông tin SEO tại trang chi tiết
 
-Toàn bộ các trang của Mkmate đều có thể khai báo được thông tin SEO theo quy chuẩn nhất quán. Cách khai báo chi tiết như sau:
+Toàn bộ các trang của Pisale đều có thể khai báo được thông tin SEO theo quy chuẩn nhất quán. Cách khai báo chi tiết như sau:
 
 ## Meta title
 
@@ -28,4 +28,3 @@ Giá trị này tự động được sinh ra dựa trên tiêu đề của tran
 - Không dùng khoảng trống trong slug
 - Không trùng với những slug khác đã có trên toàn bộ website
 :::
-

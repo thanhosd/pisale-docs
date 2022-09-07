@@ -1,7 +1,13 @@
 
-# Logic sử dụng Mkmate
+# Logic sử dụng Pisale
+## Thêm một mục
+Nhấn chọn nút (+) để thêm mới 1 mục
+
+## Lưu một mục
+Nhấn chọn nút (v) để lưu lại 1 mục
+
 ##  Xóa các mục, các thành phần, thông tin
-Khi xóa hệ thống sẽ yêu cầu xác nhận do Mkmate không có chức năng Thùng rác. Đây là 1 trong những định hướng giúp website không phải lưu trữ nhiều thông tin để website hoạt động nhanh hơn.
+Khi xóa hệ thống sẽ yêu cầu xác nhận do Pisale không có chức năng Thùng rác. Đây là 1 trong những định hướng giúp website không phải lưu trữ nhiều thông tin để website hoạt động nhanh hơn.
 
 ## Mục nổi bật
 Khi bài viết được chọn là nổi bật (hot), thì sẽ được ưu tiên đưa lên đầu của danh sách, không phụ thuộc vào thời gian của tin bài. Khi các mục cùng là nội bật, hệ thống sẽ sắp xếp theo thứ tự ưu tiên tiếp theo: 
