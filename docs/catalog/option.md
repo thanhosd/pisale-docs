@@ -20,7 +20,7 @@ Dựa vào mục đích của sản phẩm để thêm tùy chọn tương ứng
 
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ** để lựa chọn tập tin hình ảnh của tùy chọn từ máy tính và tải lên
+Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của tùy chọn từ máy tính và tải lên
 
 **Thứ tự**
 
