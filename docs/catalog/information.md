@@ -1,6 +1,8 @@
 # Thông tin
 
-Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
+- Cho phép quản lý các bài thông tin như bài giới thiệu, các bài viết về chính sách công ty.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 ## Thêm mới bài thông tin
 
@@ -22,13 +24,9 @@ Nhập tiêu đề cho bài thông tin
 
 Trình bày thông tin có mục đích hướng tới độc giả
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
-
 **Ảnh đại diện**
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Kiểu trình bày**
 
