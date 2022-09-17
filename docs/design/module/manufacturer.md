@@ -4,7 +4,7 @@
 
 Để thêm mô đun danh sách nhà sản xuất, bạn cần
 
-Nhấn chọn **Giao diện -> Mô đun -> Danh sách nhà sản xuất -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Danh sách nhà sản xuất -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun danh sách nhà sản xuất được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
@@ -28,13 +28,13 @@ Nhập số lượng giới hạn hiển thị danh sách nhà sản xuất củ
 
 Nhập kích thước hình ảnh tương ứng cho mô đun
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa mô đun danh sách nhà sản xuất
 
-Nhấn chọn **Xóa** tại mô đun muốn xóa, hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** 
+Nhấn chọn **Xóa** tại mô đun muốn xóa.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun danh sách nhà sản xuất
 
