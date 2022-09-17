@@ -35,7 +35,7 @@ Lựa chọn khổ ảnh tại danh sách thả xuống
 
 Lựa chọn mẫu trình bày tại danh sách thả xuống
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun nhóm sản phẩm
 
