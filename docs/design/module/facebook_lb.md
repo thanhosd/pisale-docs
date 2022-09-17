@@ -5,7 +5,7 @@ Facebook Business Page nhằm tiếp cận khách hàng bằng cách kết nối
 ## Thêm cấu hình Facebook Business Page
 Để cấu hình mô đun Facebook Business Page, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Facebook Business Page -> Cấu hình**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Facebook Business Page -> Cấu hình -> Thêm mô đun**
 
 Trang cấu hình mô đun Facebook Business Page được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
@@ -41,13 +41,13 @@ Lựa chọn trạng thái hiển thị stream cho mô đun (Bật: cho phép hi
 
 Lựa chọn trạng thái hiển thị tiêu đề của mô đun (Có: cho phép hiển thị/Không: không cho phép hiển thị)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa cấu hình Facebook Business Page
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa cấu hình Facebook Business Page
 
