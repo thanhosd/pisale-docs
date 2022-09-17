@@ -36,7 +36,7 @@ Nhấn chọn nút (v) để lưu lại 1 mục.
 
 Để xóa tùy chọn, tích vào tùy chọn đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa tùy chọn
 
