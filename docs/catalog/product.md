@@ -4,7 +4,9 @@
 
 Để thêm một bài sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Sản phẩm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
@@ -118,7 +120,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** (icon màu xanh) để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài sản phẩm
 
@@ -130,7 +132,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
