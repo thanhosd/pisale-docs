@@ -44,7 +44,7 @@ Lựa chọn kiểu trình diễn cho mô đun tại danh sách thả xuống. C
 
 Điền số mục cho mô đun
 
-**Mục trên mobile**\
+**Mục trên mobile**
 
 Điền số mục trên mobile cho mô đun
 
