@@ -5,7 +5,7 @@ Trình bày nhiều mẫu khác nhau với 5 tùy chọn mẫu
 ## Thêm mô đun banner
 Để thêm mô đun banner, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình**. Những thông tin cấu hình như sau:
+Nhấn chọn **Giao diện -> Mô đun -> Banner -> Cấu hình -> Thêm mô đun**. Những thông tin cấu hình như sau:
 
 **Bố cục**
 
@@ -60,9 +60,9 @@ Kích thước W x H = 500 pixel x 621 pixel
 
 ### Xóa mô đun banner
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**. 
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun banner
 
