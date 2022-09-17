@@ -7,7 +7,7 @@ Cho phép cấu hình mô đun trình bày tin bài tại nhiều bố cục và
 
 Để cấu hình mô đun trình bày tin bài, bạn cần:
 
-Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hình**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Giao diện -> Mô đun -> Trình bày dịch vụ -> Cấu hình -> Thêm mô đun**. Những thông tin cụ thể cần điền như sau:
 
 **Bố cục/Vị trí**
 
@@ -65,11 +65,7 @@ Nhập giới hạn số bài hiển thị
 **Tin nhấn mạnh**: nhập số tin cần nhấn mạnh. Với 1 tin nhấn mạnh được hiển thị như sau:
 ![trinh-bay-tin-bai-1.jpg (71 KB)](img/trinh-bay-tin-bai-1.jpg)
 
-**Khổ ảnh**
-
-**Tỷ lệ**
-
-**Sắp xếp theo**
+**Khổ ảnh/Tỷ lệ/Sắp xếp theo**
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
@@ -83,12 +79,12 @@ Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa cấu hình trình bày tin bài
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** 
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa cấu hình trình bày tin bài
 
