@@ -90,13 +90,13 @@ Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi th
 
 ### Thêm mới cấu hình trình đơn
 
-Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô-đun -> Trình đơn -> Cấu hình -> Thêm mô đun**
 
 Những thông tin cụ thể cần điền như sau:
 
 **Bố cục/Vị trí**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Trình đơn**
 
