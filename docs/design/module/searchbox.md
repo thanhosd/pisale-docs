@@ -23,7 +23,6 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 **Kiểu trình bày**
 
 - Thu gọn: hiển thị icon tìm kiếm, khi click vào icon hệ thống sẽ hiển thị khung box điền nội dung tìm kiếm từ khóa
-
 - Đơn giản: hiển thị icon và khung box tìm kiếm từ khóa
 
 Nhấn chọn **Lưu** để hoàn tất.
