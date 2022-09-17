@@ -4,7 +4,7 @@ Là dịch vụ trực tuyến dành cho doanh nghiệp với khách hàng, thư
 
 ## Thêm mới mô đun mạng xã hội
 
-Nhấn chọn **Giao diện -> Mô đun -> Mạng xã hội -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Mạng xã hội -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun mạng xã hội được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
@@ -54,19 +54,17 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
 
 Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa kênh truyền thông
 
-Nhấn chọn **Xóa** tại kênh truyền thông muốn xóa, hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** 
-
-Bạn chọn **Ok** nếu xác nhận xóa.
+Nhấn chọn **Xóa** tại kênh truyền thông muốn xóa.
 
 ## Xóa Bố cục mô đun
 
-Nhấn chọn **Xóa** tại bố cục muốn xóa, hệ thống sẽ xác nhận với nội dung như sau: **Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được.** 
+Nhấn chọn **Xóa** tại bố cục muốn xóa.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun mạng xã hội
 
