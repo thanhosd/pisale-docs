@@ -7,7 +7,9 @@
 
 Để thêm một bài dịch vụ, bạn cần:
 
-Nhấn chọn **Nội dung -> Dịch vụ -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Dịch vụ**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài dịch vụ._
 
