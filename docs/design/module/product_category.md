@@ -9,21 +9,17 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> **Cấu h
 
 Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Bố cục**
+**Bố cục/Vị trí**
 
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
-
-**Vị trí hiển thị**
-
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Tiêu đề**
 
