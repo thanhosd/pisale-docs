@@ -1,4 +1,7 @@
 # Sản phẩm
+
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
  
 # Thêm bài sản phẩm mới
 
@@ -31,8 +34,6 @@ Nhập thông tin ưu đãi cho sản phẩm
 **Thư viện ảnh**
 
 Nhấn chọn **Chọn ảnh đại diện/Chọn ảnh** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Giá bán**
 
