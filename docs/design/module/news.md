@@ -33,15 +33,6 @@ Lựa chọn danh mục nhóm tin bài tại danh sách thả xuống
 
 Lựa chọn mẫu trình bày tại danh sách thả xuống
 
-_Mẫu trình bày dạng Ảnh đại diện + tiêu đề_
-_Mẫu trình bày dạng Danh sách đơn giản_
-_Mẫu trình bày danh sách Khối_
-_Mẫu trình bày danh sách Tin cuộn ngang_
-_Mẫu trình bày dạng Ticker_
-_Mẫu trình bày dạng Tạp chí_
-_Mẫu trình bày dạng Top list_
-_Mẫu trình bày dạng Mặc định_
-
 **Hiện ảnh**
 
 Tích chọn, để hiện ảnh tại nhóm tin này
