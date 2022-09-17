@@ -4,7 +4,9 @@
 
 Để thêm một nhà sản xuất, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhà sản xuất -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Nhà sản xuất**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho Nhà sản xuất._
 
@@ -42,7 +44,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa nhà sản xuất
 
@@ -52,4 +54,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa Nhà sản xuất
 
-Nhấn chọn nhà sản xuất muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn nhà sản xuất muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
