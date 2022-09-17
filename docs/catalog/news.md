@@ -28,9 +28,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Chuyên mục**
 
@@ -70,7 +68,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 **Kết quả** 
 
-Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn. Sao cho kết quả bằng 5 là đẹp.
+Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
 
 **Tin bài liên quan**
 
