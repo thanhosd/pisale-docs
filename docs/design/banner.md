@@ -12,7 +12,7 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện => Mô đun => Trình diễn => Cấu hình**, để hiển thị ngoài trang chủ website
+Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**, để hiển thị ngoài trang chủ website
 
 ## Quản lý Banner
 
