@@ -1,5 +1,8 @@
 # Tin bài
 
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
+
 ## Thêm tin bài mới
 
 Để thêm một tin bài, bạn cần:
@@ -20,21 +23,17 @@ Nhập mô tả ngắn cho tin bài. Độ dài khoảng 160-320 ký tự.
 
 Trình bày thông tin có mục đích hướng tới độc giả.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
-
 **Câu hỏi thường gặp**
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên.
 
 **Chuyên mục**
 
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
-
-Xem thêm cách tạo [chuyên mục tin](https://pisale.osd.vn/docs/catalog/news_category)
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn [chuyên mục tin](https://pisale.osd.vn/docs/catalog/news_category) bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 
