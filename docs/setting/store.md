@@ -21,7 +21,6 @@ Nhập địa chỉ chi nhánh
 **Ảnh đại diện**
 
 Nhấp **Chọn ảnh** để lựa chọn tập tin hình ảnh tin bài và tải lên
-Xem thêm cách upload ảnh [tại đây](https://mkmate.osd.vn/docs/common/finder)
 
 **Tỉnh thành phố**
 
@@ -46,13 +45,13 @@ Nhập số điện thoại của chi nhánh
 
 Lựa chọn trạng thái có hoặc không cho phép nhận hàng
 
-**Thứ tự**
-
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
-
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị chi nhánh (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Giờ mở cửa**
 
@@ -64,7 +63,7 @@ Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn 
 
 Để xóa một chi nhánh, tích vào chi nhánh đó và chọn **Xóa**
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK** để xóa chi nhánh đó.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa chi nhánh
 
