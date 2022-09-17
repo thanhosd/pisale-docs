@@ -6,7 +6,9 @@ Cho phép quản lý các bài thông tin như bài giới thiệu, các bài vi
 
 Để thêm một bài thông tin, bạn cần:
 
-Nhấn chọn **Nội dung -> Thông tin -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Thông tin -> Thêm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
@@ -44,7 +46,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài thông tin
 
@@ -56,4 +58,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
