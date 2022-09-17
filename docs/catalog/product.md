@@ -139,4 +139,4 @@ Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ d
 
 ## Sửa giá nhanh cho bài sản phẩm
 
-Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi
+Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi.
