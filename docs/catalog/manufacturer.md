@@ -1,5 +1,8 @@
 # Nhà sản xuất
 
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
+
 ## Thêm một nhà sản xuất
 
 Để thêm một nhà sản xuất, bạn cần:
@@ -18,11 +21,9 @@ Nhập tên nhà sản xuất
 
 Nhập mô tả nội dung cho nhà sản xuất
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
-
 **Ảnh đại diện/Banner**
 
-Chọn ảnh đại diện/Chọn banner, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Chọn ảnh đại diện/Chọn banner, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file.
 
 **Nổi bật**
 
