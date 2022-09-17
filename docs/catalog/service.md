@@ -1,4 +1,7 @@
 # Dịch vụ
+
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
  
 # Thêm bài dịch vụ mới
 
@@ -18,12 +21,11 @@ Nhập mô tả ngắn cho bài dịch vụ. Độ dài khoảng 160-320 ký t�
 
 **Nội dung**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
+Nhập nội dung mô tả chi tiết cho bài viết.
 
 **Ảnh đại diện**
 
 Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình ảnh dịch vụ từ máy tính và tải lên
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Thư viện ảnh**
 
@@ -32,8 +34,6 @@ Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều �
 **Nhóm dịch vụ**
 
 Chọn nhóm dịch vụ đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/service_cat). Hạn chế thêm dịch vụ vào nhiều nhóm dịch vụ có cùng cấp.
-
-Xem thêm cách tạo [nhóm dịch vụ](https://pisale.osd.vn/docs/catalog/service_cat)
 
 **Mã dịch vụ**
 
@@ -69,7 +69,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th
 
 **Kết quả** 
 
-Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn. Sao cho kết quả bằng 5 là đẹp.
+Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
 
 **Dịch vụ liên quan/Tin bài liên quan**
 
@@ -87,7 +87,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
 Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài dịch vụ
 
@@ -99,7 +99,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài dịch vụ để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
 
 ## Nhân bản bài dịch vụ
 
