@@ -6,7 +6,7 @@ Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đ�
 
 Để thêm một nhóm longform, bạn cần:
 
-Nhấn chọn **Nội dung -> Longform -> Thêm**
+Nhấn chọn **Nội dung -> Longform**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Bạn thêm các bài longform theo nhiều định dạng form khác nhau. Bạn có thể tùy chỉnh 3 phiên bản **Desktop, Tablet, Mobile** nhấn chọn vào danh sách thả xuống và chọn phiên bản **Desktop, Tablet, Mobile** tương ứng, sau đó nhấn chọn dấu cộng tại mỗi hàng để tùy chỉnh kích thước mỗi box tương ứng hiển thị trên màn hình.
 
@@ -79,15 +79,13 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
 Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa longform
 
 ### Xóa 1 bài longform
 
 Tích chọn bài bạn muốn xóa tại danh sách bài longform và chọn Xóa.
-
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Xóa 1 cột nội dung trong bài longform
 
@@ -97,4 +95,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa bài longform
 
-Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, bạn cần nhấn **Lưu** để cập nhật.
+Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, bạn cần nhấn nút **v** để cập nhật.

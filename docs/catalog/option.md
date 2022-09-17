@@ -2,7 +2,7 @@
 
 ## Thêm mới tùy chọn
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Tùy chọn -> Thêm**
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Tùy chọn**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
 Trang tạo tùy chọn mới được mở ra, điền các thông tin chi tiết của nhóm tùy chọn đó.
 
@@ -20,7 +20,7 @@ Dựa vào mục đích của sản phẩm để thêm tùy chọn tương ứng
 
 **Ảnh đại diện**
 
-Nhấn chọn **Chọn ** để lựa chọn tập tin hình ảnh của tùy chọn từ máy tính và tải lên
+Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của tùy chọn từ máy tính và tải lên
 
 **Thứ tự**
 
@@ -30,14 +30,14 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 Nhấp chọn để thêm nhiều tùy chọn khác nhau cùng nhóm tùy chọn
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa tùy chọn
 
 Để xóa tùy chọn, tích vào tùy chọn đó và chọn **Xóa** từ danh sách checkbox bên trái
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa tùy chọn
 
-Nhấn chọn trực tiếp vào tùy chọn muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp vào tùy chọn muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.

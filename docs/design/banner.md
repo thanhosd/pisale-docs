@@ -12,7 +12,7 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện => Mô đun => Trình diễn => Cấu hình**, để hiển thị ngoài trang chủ website
+Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình tại **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**, để hiển thị ngoài trang chủ website
 
 ## Quản lý Banner
 
@@ -82,7 +82,7 @@ Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn *
 
 ### Thêm mới cấu hình trình diễn
 
-Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình**
+Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình -> Thêm mô đun**
 
 Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
 
@@ -90,15 +90,19 @@ _Chú ý: Các trường đều cần điền thông tin_
 
 **Bố cục/Vị trí**
 
-Lựa chọn bố cục/vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
-**Thứ tự/Trạng thái**
+**Trạng thái**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Banner**
 
-Lựa chọn nhóm banner hiển thị trên bố cục/vị trí của website. Nhóm banner bạn đã tạo tại **Giao diện => Banner**
+Lựa chọn nhóm banner hiển thị trên bố cục/vị trí của website. Nhóm banner bạn đã tạo tại **Giao diện -> Banner**
 
 **Kích thước desktop/mobile**
 

@@ -1,10 +1,15 @@
 # Tin bài
 
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
+
 ## Thêm tin bài mới
 
 Để thêm một tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Tin bài -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tiêu đề**
 
@@ -18,23 +23,17 @@ Nhập mô tả ngắn cho tin bài. Độ dài khoảng 160-320 ký tự.
 
 Trình bày thông tin có mục đích hướng tới độc giả.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce/)
-
 **Câu hỏi thường gặp**
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
 **Ảnh đại diện**
 
-Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Nhấp chọn ảnh đại diện để lựa chọn tập tin hình ảnh tin bài và tải lên.
 
 **Chuyên mục**
 
-Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn chuyên mục tin bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
-
-Xem thêm cách tạo [chuyên mục tin](https://pisale.osd.vn/docs/catalog/news_category)
+Bạn có thể thêm tin bài vào nhiều chuyên mục tin khác nhau. Nhấn chọn trường “Chuyên mục” và lựa chọn [chuyên mục tin](https://pisale.osd.vn/docs/catalog/news_category) bạn muốn thêm tin bài đó. Hạn chế thêm tin bài vào nhiều nhóm chuyên mục tin có cùng cấp.
 
 **Tag**
 
@@ -68,7 +67,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 **Kết quả** 
 
-Kết quả hiển thị tự động theo theo công thức Tổng điểm/Số bầu chọn. Sao cho kết quả bằng 5 là đẹp.
+Kết quả hiển thị tự động theo theo công thức `Tổng điểm/Số bầu chọn`. Sao cho kết quả bằng 5 là đẹp.
 
 **Tin bài liên quan**
 
@@ -82,7 +81,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
 Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
-Nhấn chọn **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa một tin bài
 
@@ -92,4 +91,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để hoàn tất.

@@ -9,21 +9,17 @@ Nhấn chọn **Giao diện -> Mô đun -> Trình bày sản phẩm -> **Cấu h
 
 Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
-**Bố cục**
+**Bố cục/Vị trí**
 
-Lựa chọn bố cục hiển thị tại danh sách thả xuống
-
-**Vị trí hiển thị**
-
-Lựa chọn vị trí hiển thị tại danh sách thả xuống
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
 
 **Trạng thái**
 
-Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/Tắt: không cho phép hiển thị)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 **Thứ tự**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
 **Tiêu đề**
 
@@ -45,21 +41,17 @@ Nhập giới hạn số bài cho phép hiển thị tại mô đun này
 
 Nhập kích thước tương ứng cho phép hiển thị ảnh bài tin
 
-**Sắp xếp theo**
+**Sắp xếp theo/Chiều sắp xếp**
 
 Lựa chọn kiểu sắp xếp tại danh sách thả xuống
 
-**Chiều sắp xếp**
-
-Lựa chọn chiều sắp xếp tại danh sách thả xuống
-
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun trình bày sản phẩm
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."**
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun trình bày sản phẩm
 

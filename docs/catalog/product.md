@@ -1,10 +1,15 @@
 # Sản phẩm
+
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
  
 # Thêm bài sản phẩm mới
 
 Để thêm một bài sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Sản phẩm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho bài sản phẩm._
 
@@ -18,7 +23,7 @@ Nhập mô tả cho sản phẩm. Độ dài khoảng 160-320 ký tự.
 
 **Mô tả chi tiết**
 
-Nhập nội dung mô tả chi tiết cho bài viết. Xem thêm các tính năng trên thanh công cụ trình soạn thảo[tại đây](https://pisale.osd.vn/docs/common/tinymce)
+Nhập nội dung mô tả chi tiết cho bài viết.
 
 **Thông tin ưu đãi/ Tiêu chuẩn hàng hóa**
 
@@ -29,8 +34,6 @@ Nhập thông tin ưu đãi cho sản phẩm
 **Thư viện ảnh**
 
 Nhấn chọn **Chọn ảnh đại diện/Chọn ảnh** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
-
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 **Giá bán**
 
@@ -63,8 +66,6 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 **Nhóm sản phẩm**
 
 Chọn nhóm sản phẩm đã được tạo [tại đây](https://pisale.osd.vn/docs/catalog/category). Hạn chế thêm sản phẩm vào nhiều nhóm sản phẩm có cùng cấp.
-
-Xem thêm cách tạo nhóm sản phẩm [tại đây](https://pisale.osd.vn/docs/catalog/category)
 
 **Hãng sản xuất**
 
@@ -118,7 +119,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** (icon màu xanh) để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài sản phẩm
 
@@ -130,7 +131,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn **Lưu** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
@@ -138,4 +139,4 @@ Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ d
 
 ## Sửa giá nhanh cho bài sản phẩm
 
-Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi
+Tại danh sách bài sản phẩm, thay đổi giá bán của sản phẩm và nhấn chọn dấu tích bên cạnh botton giá để cập nhật thay đổi.

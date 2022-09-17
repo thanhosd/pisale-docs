@@ -2,7 +2,9 @@
 
 ## Thêm mới nhóm đặc tính
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm đặc tính -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm đặc tính**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 **Tên nhóm đặc tính**
 
@@ -12,7 +14,7 @@ Nhập tên nhóm đặc tính
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa nhóm đặc tính
 
@@ -22,4 +24,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm đặc tính
 
-Nhấn chọn trực tiếp vào nhóm đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn trực tiếp vào nhóm đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.

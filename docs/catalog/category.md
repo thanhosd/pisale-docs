@@ -2,12 +2,16 @@
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
 - Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các sản phẩm cùng loại.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 ## Thêm một nhóm sản phẩm
 
 Để thêm một nhóm sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm -> Thêm**. Những thông tin cụ thể cần điền như sau:
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm sản phẩm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+Những thông tin cụ thể cần điền như sau:
 
 _Chú ý: Bạn bắt buộc phải nhập tên cho nhóm sản phẩm._
 
@@ -27,11 +31,9 @@ Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh s
 
 Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
-
 **Ảnh đại diện/Banner**
 
-Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file.
 
 **Cấp danh mục cha**
 
@@ -62,7 +64,7 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấp chuột vào nút **Lưu** để hoàn tất.
+Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa nhóm sản phẩm
 
@@ -72,4 +74,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm sản phẩm
 
-Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn **Lưu** để hoàn tất.
+Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
