@@ -22,17 +22,14 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-**Khổ ảnh**
+**Khổ ảnh/Tỷ lệ ảnh**
 
 Lựa chọn khổ ảnh tại danh sách thả xuống
 
-**Tỷ lệ ảnh**
-
-Lựa chọn tỷ lệ ảnh tại danh sách thả xuống
-
 **Kiểu dữ liệu**
 
-Lựa chọn kiểu dữ liệu tại danh sách thả xuống
+- Tất cả: hệ thống tự động lấy tất cả các nhóm sản phẩm
+- Nổi bật: hệ thống lọc nhóm sản phẩm được tích vào trường **nổi bật**
 
 **Mẫu trình bày**
 
