@@ -3,6 +3,8 @@
 
 - Chuyên mục tin bài: cho phép tạo nhiều nhóm những chuyên mục cùng loại với nhau tùy theo mục đích.
 - Một chuyên mục tin bài có liên kết mật thiết chặt chẽ với các tin bài cùng loại.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 ## Thêm chuyên mục tin bài
 
@@ -22,11 +24,9 @@ Mỗi nhóm chuyên mục tin được tạo sẽ có 1 đường dẫn địa c
 
 Nhập nội dung mô tả chuyên mục tin bài
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
-
 **Ảnh đại diện**:
 
-Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Để upload được ảnh, bạn cần chọn **Chọn ảnh đại diện**, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file.
 
 **Cấp danh mục cha**:
 
