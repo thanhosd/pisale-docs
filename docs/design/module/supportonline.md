@@ -4,13 +4,13 @@ Là dịch vụ trực tuyến dành cho doanh nghiệp với khách hàng, thư
 
 ## Thêm mới mô đun hỗ trợ trực tuyến
 
-Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình -> Thêm mô đun**
+Nhấn chọn **Giao diện -> Mô đun -> Hỗ trợ trực tuyến -> Cấu hình -> Thêm kênh liên lạc -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun hỗ trợ trực tuyến được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
 **Chọn kênh liên lạc**
 
-Lựa chọn kênh muốn hiển thị có sẵn trong khung box. Cho phép lựa chọn 6 kênh liên lạc: 
+Lựa chọn kênh muốn hiển thị có sẵn trong danh sách thả xuống 
 - _Viber_
 - _Zalo_
 - _Điện thoại_
@@ -46,7 +46,7 @@ Lựa chọn vị trí hiển thị tại danh sách thả xuống
 
 Lựa chọn cỡ icon tại Drop List
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa kênh hỗ trợ trực tuyến
 
