@@ -37,7 +37,7 @@ Bạn nhập tên biến ở vị trí nào sẽ hiển thị tên biến ở v�
 
 ![mau-noi-dung-4.jpg](img/mau-noi-dung-4.jpg)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ## Xóa mẫu nội dung
 
