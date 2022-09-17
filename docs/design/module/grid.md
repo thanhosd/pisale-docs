@@ -7,7 +7,7 @@ Chức năng này dùng để trình bày những loại nội dung có nhiều 
 
 Để cấu hình mô đun Grid Content, bạn cần:
 
-Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content -> Cấu hình**
+Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Grid Content -> Cấu hình -> Thêm mô đun**
 
 Trang tạo cấu hình mô đun **Grid Content** được mở ra, điền và cấu hình các thông tin chi tiết của mô đun đó.
 
@@ -64,13 +64,13 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn **Lưu** để hoàn tất.
+Nhấn chọn **Lưu** để hoàn tất.
 
 ### Xóa mô đun Grid Content
 
-Nhấn chọn **Xóa** để xóa mô đun này, hệ thống sẽ xác nhận với nội dung như sau: **"Bạn có chắc chắn muốn xóa đối tượng này không? Đây là hành động sẽ không thể khôi phục lại được."** 
+Nhấn chọn **Xóa** để xóa mô đun này.
 
-Bạn chọn **Ok** nếu xác nhận xóa.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ### Sửa mô đun Grid Content
 
