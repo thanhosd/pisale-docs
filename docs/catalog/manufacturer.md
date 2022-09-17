@@ -24,8 +24,6 @@ Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đ
 
 Chọn ảnh đại diện/Chọn banner, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
 
-Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
-
 **Nổi bật**
 
 Lựa chọn trạng thái hiển thị cho nhà sản xuất trên website khi cấu hình mô đun danh sách nhà sản xuất
