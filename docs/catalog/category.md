@@ -2,6 +2,8 @@
 
 - Nhóm sản phẩm: cho phép tạo nhiều nhóm những sản phẩm cùng loại với nhau tùy theo mục đích.
 - Một nhóm sản phẩm có liên kết mật thiết chặt chẽ với các sản phẩm cùng loại.
+- Hướng dẫn sử dụng tính năng trình soạn thảo: xem thêm [tại đây](https://pisale.osd.vn/docs/common/tinymce)
+- Hướng dẫn sử dụng trình quản lý file: xem thêm [tại đây](https://pisale.osd.vn/docs/common/finder)
 
 ## Thêm một nhóm sản phẩm
 
@@ -29,11 +31,9 @@ Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía trên danh s
 
 Nhập mô tả cho nhóm sản phẩm. Được hiển thị phía dưới danh sách các bài sản phẩm.
 
-Xem thêm các tính năng trên thanh công cụ trình soạn thảo [tại đây](https://pisale.osd.vn/docs/common/tinymce)
-
 **Ảnh đại diện/Banner**
 
-Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file. Xem thêm cách upload ảnh [tại đây](https://pisale.osd.vn/docs/common/finder)
+Chọn duyệt file, sau đó chọn thư mục ảnh tương ứng để upload ảnh lên trình quản lý file.
 
 **Cấp danh mục cha**
 
