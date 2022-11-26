@@ -105,6 +105,13 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 - **Xóa tùy chọn**: nhấn nút **Xóa tùy chọn** để xóa nhóm tùy chọn đó
 - **Thêm mục tùy chọn**: nhân chọn thêm để thêm nhiều tùy chọn khác nhau
 
+**Khuyến mại**
+- **Ưu tiên**: Điền số thứ tự cho từng mốc khuyến mại
+- **Giá bán**: Điền giá khuyến mại
+- **Từ ngày**: Chọn ngày bắt đầu khuyến mại
+- **Đến ngày**: Chọn ngày kết thúc khuyến mại
+- **Thêm Giá khuyến mại**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
+
 **Đặc tính sản phẩm**
 
 ![thong-so-ky-thuat.jpg](img/thong-so-ky-thuat.jpg)
