@@ -55,6 +55,14 @@ Lựa chọn ngày xuất bản cho bài sản phẩm
 
 Nhập số lượng cho sản phẩm. Điền số 0 thì khi xem ngoài sản phẩm sẽ hiển thị tình trạng là **Tạm hết hàng**
 
+**Mua tối thiểu**
+
+Số lượng ít nhất khi đặt hàng
+
+**Trọng lượng**
+
+Điền trọng lượng của sản phẩm, đơn vị tính là kg hoặc gram
+
 **Trạng thái**
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
@@ -96,6 +104,13 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 - **Xóa**: nhấn nút xóa để **Xóa** 1 tùy chọn
 - **Xóa tùy chọn**: nhấn nút **Xóa tùy chọn** để xóa nhóm tùy chọn đó
 - **Thêm mục tùy chọn**: nhân chọn thêm để thêm nhiều tùy chọn khác nhau
+
+**Khuyến mại**
+- **Ưu tiên**: Điền số thứ tự cho từng mốc khuyến mại
+- **Giá bán**: Điền giá khuyến mại
+- **Từ ngày**: Chọn ngày bắt đầu khuyến mại
+- **Đến ngày**: Chọn ngày kết thúc khuyến mại
+- **Thêm Giá khuyến mại**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
 
 **Đặc tính sản phẩm**
 
