@@ -41,10 +41,6 @@ Tại hình trên tọa độ sẽ là:
 
 Nhập số điện thoại của chi nhánh
 
-**Cho phép nhận hàng**
-
-Lựa chọn trạng thái có hoặc không cho phép nhận hàng
-
 **Trạng thái**
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
