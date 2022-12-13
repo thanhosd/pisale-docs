@@ -22,7 +22,7 @@ Tại màn hình thiết lập tài sản, các trường điền như sau:
 
 Nhấn chọn **Tiếp theo** được chuyển hướng đến tab **Giới thiệu về doanh nghiệp**
 
-![Google Analytics](img/ga-2.jpg)
+![Google Analytics](img/ga_2.jpg)
 
 Lựa chọn thông tin phù hợp cho doanh nghiệp của bạn, nhấn chọn **Tạo** và được chuyển hướng đến điều khoản của Google
 
@@ -47,7 +47,6 @@ Tạo luồng thành công được chuyển hướng tới màn hình **Thông 
 ![Google Analytics](img/ga-7.jpg)
 
 Bạn có thể sử dụng trình tạo trang web để tự động hoàn tất việc thiết lập hoặc tự cài đặt thẻ. Để đảm bảo nhận được kết quả đo lường chính xác, bạn cài đặt thẻ trên trang web bạn cần theo dõi.
-
 
 **Hướng dẫn dán Mã Google Analytics trong quản trị web**
 
