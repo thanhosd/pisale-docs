@@ -6,7 +6,7 @@ tags: [roadmap,pisale]
 ---
 
 # Kế hoạch cải tiến sản phẩm
-## 2022-12-31. V6.5.0
+## 2023-01-15. V6.5.0
 1. - [x] Nâng cấp TinyMCE6
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
@@ -34,7 +34,7 @@ tags: [roadmap,pisale]
 25. - [x] Đếm lượt reach của 404 link
 26. - [x] Hỗ trợ Tax Class
 
-## 2022-12-31. V6.5.1
+## 2022-04-30. V6.5.1
 1. - [ ] Tối ưu hóa backup
 2. - [ ] AMP-HTML full page
 3. - [ ] Quick view product
