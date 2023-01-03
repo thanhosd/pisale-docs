@@ -25,7 +25,7 @@ tags: [roadmap,pisale]
 16. - [x] Hỗ trợ redirect 301, 302
 17. - [x] Customize những trang đặc biệt: SEO, title, description
 18. - [x] 🐱‍💻 AMP-HTML cơ bản cho bài: tin tức, dịch vụ, sản phẩm
-19. - [x] 
+19. - [ ] Popup Builder
 20. - [x] Cho phép đặt số lượng vote => chống tấn công
 21. - [x] Tool import/export dữ liệu bằng Excel
 22. - [x] 🐛 Fix lỗi bật tắt tác giả/ lượt xem, tin bài của chuyên mục khi xem chi tiết tin tức
@@ -33,6 +33,7 @@ tags: [roadmap,pisale]
 24. - [x] 🐞 Lỗi: Gửi email thông báo khi cho nhiều admin cùng 1 lúc
 25. - [x] Đếm lượt reach của 404 link
 26. - [x] Hỗ trợ Tax Class
+27. - [x] Bổ sung chức năng coupon
 
 ## 2022-04-30. V6.5.1
 1. - [ ] Tối ưu hóa backup
@@ -42,7 +43,7 @@ tags: [roadmap,pisale]
 7. - [ ] Tích hợp Google Ads, Facebook Ads
 8. - [ ] Mẫu nội dung cho trình soạn thảo
 9. - [ ] Cộng tác nhóm khi soạn thảo bài viết
-10. - [ ] Nghiệp vụ mua trả góp
+10. - [-] Nghiệp vụ mua trả góp
 11. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
 12. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
 13. - [ ] Chức năng bảo hành
@@ -53,7 +54,7 @@ tags: [roadmap,pisale]
 18. - [ ] 🐱‍💻 Admin Tasks
 19. - [ ] Tối ưu hóa UX: tooltip, ảnh đại diện
 20. - [ ] Code lại phần giỏ hàng
-21. - 🐱‍💻 Bổ sung chức năng coupon
+21. - 🐱‍💻 Quick register/Single Sign-On
 22. - 🐱‍💻 Quản lý khách hàng
 23. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 24. - [ ] Bộ lọc sản phẩm
