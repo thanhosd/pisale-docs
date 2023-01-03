@@ -114,11 +114,7 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'Cộng đồng F1',
-                href: 'https://f1.edu.vn',
-              },
+              }
             ],
           },
         ],
