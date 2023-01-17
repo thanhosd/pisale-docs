@@ -10,7 +10,7 @@ tags: [roadmap,pisale]
 1. - [x] Nâng cấp TinyMCE6
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
-4. - [ ] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
+4. - [-] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [x] Task queue for optimizing lossless image
 6. - [x] MySQL Console
 7. - [x] Quản lý broken link: mức cơ bản
@@ -25,7 +25,7 @@ tags: [roadmap,pisale]
 16. - [x] Hỗ trợ redirect 301, 302
 17. - [x] Customize những trang đặc biệt: SEO, title, description
 18. - [x] 🐱‍💻 AMP-HTML cơ bản cho bài: tin tức, dịch vụ, sản phẩm
-19. - [ ] Popup Builder
+19. - [-] Popup Builder
 20. - [x] Cho phép đặt số lượng vote => chống tấn công
 21. - [x] Tool import/export dữ liệu bằng Excel
 22. - [x] 🐛 Fix lỗi bật tắt tác giả/ lượt xem, tin bài của chuyên mục khi xem chi tiết tin tức
@@ -59,3 +59,5 @@ tags: [roadmap,pisale]
 23. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 24. - [ ] Bộ lọc sản phẩm
 25. - [ ] Cookie Consent
+26. - [ ] Popup Builder
+27. - [ ] Nhóm sản phẩm chính vs nhóm sản phẩm bổ sung
