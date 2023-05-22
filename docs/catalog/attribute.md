@@ -2,7 +2,7 @@
 
 ## Thêm mới đặc tính
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Đặc tính**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Đặc tính**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -18,7 +18,7 @@ Chọn nhóm đặc tính đã tạo [tại đây](https://pisale.osd.vn/docs/ca
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa đặc tính
 
@@ -28,4 +28,8 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa đặc tính
 
-Nhấn chọn trực tiếp vào đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
+Nhấn chọn trực tiếp vào đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
+
+## Bật/Tắt trạng thái tất cả đặc tính
+
+Chọn đặc tính cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái bài đặc tính.
