@@ -76,10 +76,6 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
 
-## Nhân bản bài sản phẩm
-
-Chọn nhóm sản phẩm cần nhân bản từ danh sách sau đó chọn Nhân bản => Hệ thống sẽ nhân bản nhóm sản phẩm và đặt trạng thái là tắt.
-
-## Bật/Tắt trạng thái tất cả bài sản phẩm
+## Bật/Tắt trạng thái tất cả nhóm sản phẩm
 
 Chọn nhóm sản phẩm cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái nhóm sản phẩm.
