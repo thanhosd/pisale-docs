@@ -1,16 +1,16 @@
 
 # Logic sử dụng Pisale
 ## Thêm một mục
-Nhấn chọn nút (+) để thêm mới 1 mục
+Nhấn chọn nút **Thêm** để thêm mới 1 mục
 
 ## Lưu một mục
-Nhấn chọn nút (v) để lưu lại 1 mục
+Nhấn chọn nút **Lưu** để lưu lại 1 mục
 
 ##  Xóa các mục, các thành phần, thông tin
 Khi xóa hệ thống sẽ yêu cầu xác nhận do Pisale không có chức năng Thùng rác. Đây là 1 trong những định hướng giúp website không phải lưu trữ nhiều thông tin để website hoạt động nhanh hơn.
 
 ## Mục nổi bật
-Khi bài viết được chọn là nổi bật (hot), thì sẽ được ưu tiên đưa lên đầu của danh sách, không phụ thuộc vào thời gian của tin bài. Khi các mục cùng là nội bật, hệ thống sẽ sắp xếp theo thứ tự ưu tiên tiếp theo: 
+Khi bài viết được chọn là nổi bật (hot), thì sẽ được ưu tiên đưa lên đầu của danh sách, không phụ thuộc vào thời gian của tin bài. Khi các mục cùng là nổi bật, hệ thống sẽ sắp xếp theo thứ tự ưu tiên tiếp theo: 
 - Số thứ tự được chỉ định
 - Thời gian đăng bài
 
@@ -26,7 +26,7 @@ Thứ tự sắp xếp ưu tiên như sau:
 - Thứ tự
 - Ngày xuất bản
 
-## Trạng thái
+## Trạng thái và xuất bản
 
 - Bật/Có: cho phép hiển thị
 - Tắt/Không: không cho phép hiển thị
@@ -37,6 +37,7 @@ Thứ tự sắp xếp ưu tiên như sau:
 - **Vị trí** là nơi hiển thị các mục trong trang web giúp người dùng dễ dàng nắm bắt toàn bộ các thành phần của website. Cần sắp xếp vị trí các mục nhằm phù hợp với giao diện website.
 
 ## Một số lưu ý với hình ảnh sử dụng trên website
+
 Ảnh đưa lên website tốt nhất là ở định dạng JPG, nếu được nén theo chuẩn losslessly là tốt nhất, kích thước chiều rộng tối đa là 1920 pixel, độ phân giải 72 dpi, quality = 80-85%. Khi bạn không chắc chắn về định dạng ảnh thì tuyệt đối không nên dùng định dạng ảnh PNG.
 
 Do đặc thù người đọc chỉ xem website được trên các thiết bị công nghệ và điện tử nên vì thế chúng tôi chưa tìm thấy lý do nào để phải đăng 1 hình ảnh lên website với dung lượng quá 1 Mb.
