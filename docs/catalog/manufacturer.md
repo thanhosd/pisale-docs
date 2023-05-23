@@ -7,7 +7,7 @@
 
 Để thêm một nhà sản xuất, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhà sản xuất**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhà sản xuất**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -43,14 +43,18 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhà sản xuất
 
-Để xóa một nhà sản xuất, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên trái
+Để xóa một nhà sản xuất, tích vào nhà sản xuất đó và chọn **Xóa** từ danh sách checkbox bên phải
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhà sản xuất
 
-Nhấn chọn nhà sản xuất muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
+Nhấn chọn nhà sản xuất muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
+
+## Bật/Tắt trạng thái tất cả nhà sản xuất
+
+Chọn nhà sản xuất cần bật hoặc tắt từ màn hình danh sách checkbox bên phải chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái nhà sản xuất.
