@@ -7,7 +7,7 @@
 
 Để thêm một bài dịch vụ, bạn cần:
 
-Nhấn chọn **Nội dung -> Dịch vụ**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Dịch vụ**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -106,3 +106,7 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn n�
 ## Nhân bản bài dịch vụ
 
 Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** -> Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
+
+## Bật/Tắt trạng thái tất cả
+
+Chọn bài dịch vụ cần Bật hoặc Tắt trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái bài dịch vụ của bạn.
