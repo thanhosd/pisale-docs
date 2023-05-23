@@ -46,7 +46,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thêm banner**
 
@@ -94,7 +94,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thứ tự**
 
@@ -122,7 +122,7 @@ Nhập tốc độ trình diễn chuyển động mỗi slide (_đơn vị tính
 
 **Thêm mô-đun**
 
-Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau.
+Chọn **Thêm mô đun** để hiển thị giao diện bố cục khác nhau.
 
 _Chú ý: cần nhập thông tin tất cả các trường tại mô đun_
 

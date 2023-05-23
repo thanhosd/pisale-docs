@@ -41,15 +41,15 @@ Lựa chọn hiển thị ngày đăng tin cho nhóm dịch vụ
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
 
-**Trạng thái**
+**Xuất bản**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm dịch vụ
 
@@ -59,4 +59,8 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa nhóm dịch vụ
 
-Nhấn chọn nhóm dịch vụ muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
+Nhấn chọn nhóm dịch vụ muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
+
+## Bật/Tắt trạng thái tất cả nhóm dịch vụ
+
+Chọn nhóm dịch vụ cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái nhóm dịch vụ của bạn.

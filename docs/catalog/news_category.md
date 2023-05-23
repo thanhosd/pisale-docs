@@ -10,7 +10,7 @@
 
 Để thêm một nhóm chuyên mục tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -62,9 +62,9 @@ Có 4 loại kích thước có sẵn để lựa chọn
 - **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
 - **Thư viện video**:
 
-**Trạng thái**
+**Xuất bản**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thứ tự**
 
@@ -75,7 +75,7 @@ Meta title*
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm chuyên mục tin bài
 
@@ -87,4 +87,8 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
+
+## Bật/Tắt trạng thái tất cả chuyên mục tin bài
+
+Chọn chuyên mục tin bài cần bật hoặc tắt từ màn hình danh sách checkbox bên phải chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái chuyên mục tin bài.

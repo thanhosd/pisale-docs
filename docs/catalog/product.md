@@ -63,9 +63,9 @@ Số lượng ít nhất khi đặt hàng
 
 Điền trọng lượng của sản phẩm, đơn vị tính là kg hoặc gram
 
-**Trạng thái**
+**Xuất bản**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thứ tự**
 
@@ -134,11 +134,11 @@ _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm M
 
 Xem [tại đây](https://pisale.osd.vn/docs/seo/serp)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài sản phẩm
 
-Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
+Để xóa một bài sản phẩm, tích vào bài sản phẩm đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc click nút **Xóa sản phẩm** trong mỗi bài sản phẩm chi tiết.
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -146,11 +146,11 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấn chọn trực tiếp vào bài sản phẩm để sửa.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Nhân bản bài sản phẩm
 
-Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ danh sách sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
+Tại danh sách bài sản phẩm, chọn sản phẩm cần nhân bản từ danh sách checkbox bên phải sau đó chọn **Nhân bản** => Hệ thống sẽ nhân bản bài sản phẩm và đặt trạng thái là tắt.
 
 ## Sửa giá nhanh cho bài sản phẩm
 
