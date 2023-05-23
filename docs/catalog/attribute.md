@@ -22,14 +22,10 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa đặc tính
 
-Để xóa đặc tính, tích vào đặc tính đó và chọn **Xóa** từ danh sách checkbox bên trái
+Để xóa đặc tính, tích vào đặc tính đó và chọn **Xóa** từ danh sách checkbox bên phải
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa đặc tính
 
 Nhấn chọn trực tiếp vào đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
-
-## Bật/Tắt trạng thái tất cả đặc tính
-
-Chọn đặc tính cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái bài đặc tính.

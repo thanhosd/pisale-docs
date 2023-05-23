@@ -25,7 +25,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa nhóm đặc tính
 
 Nhấn chọn trực tiếp vào nhóm đặc tính muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
-
-## Bật/Tắt trạng thái tất cả nhóm đựac tính
-
-Chọn nhóm đặc tính cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái nhóm đặc tính.
