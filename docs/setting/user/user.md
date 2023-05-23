@@ -44,11 +44,10 @@ Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa thành viên
 
-Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa** để xóa tài khoản người dùng.
+Tại chi tiết mỗi tài khoản, bạn nhấn chọn nút **Xóa thành viên** để xóa tài khoản người dùng. Sau đó tại màn hình sẽ hiện lên 1 popup để chọn tài khoản sở hữu các bài viết của tài khoản mà bạn muốn xóa.
+Khi bạn đã xóa tài khoản đó thì tất cả các bài viết đó sẽ được chuyển giao sang tài khoản bạn đã chọn để chuyển giao.
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
-
-Vì liên quan đến các hạng mục kỹ thuật, KHÔNG ĐƯỢC xóa thông tin người dùng, nếu người dùng đã nghỉ việc, chỉ ĐƯỢC PHÉP tắt người dùng đó.
 
 ## Sửa thành viên
 
