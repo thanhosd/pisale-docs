@@ -87,7 +87,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Bật/Tắt trạng thái tất cả chuyên mục tin bài
 
