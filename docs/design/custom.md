@@ -18,8 +18,8 @@ Dán mã code của thẻ body
   
 ## Xóa mã nhúng
 
-Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **v** để hoàn tất.
+Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **Lưu** để hoàn tất.
 
 ## Sửa mã nhúng
 
-Sửa thông tin đoạn mã nhúng, sau đó chọn nút **v** để hoàn tất.
+Sửa thông tin đoạn mã nhúng, sau đó chọn nút **Lưu** để hoàn tất.
