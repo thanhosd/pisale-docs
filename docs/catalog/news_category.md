@@ -62,9 +62,9 @@ Có 4 loại kích thước có sẵn để lựa chọn
 - **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
 - **Thư viện video**:
 
-**Trạng thái**
+**Xuất bản**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thứ tự**
 
