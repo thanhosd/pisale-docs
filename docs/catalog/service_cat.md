@@ -60,3 +60,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa nhóm dịch vụ
 
 Nhấn chọn nhóm dịch vụ muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
+
+## Bật/Tắt trạng thái tất cả nhóm dịch vụ
+
+Chọn nhóm dịch vụ cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái nhóm dịch vụ của bạn.
