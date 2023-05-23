@@ -53,9 +53,9 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/design/module/news)
 
 Lựa chọn ngày hiển thị cho tin bài
 
-**Trạng thái**
+**Xuất bản**
 
-Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thứ tự**
 
