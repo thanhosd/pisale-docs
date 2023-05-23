@@ -7,7 +7,7 @@
 
 Để thêm một tin bài, bạn cần:
 
-Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Tin bài**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -81,14 +81,22 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
 
 Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tại đây nếu muốn hiển thị mã nhúng cho bài viết này.
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa một tin bài
 
-Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa một tin bài
 
-Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **v** để hoàn tất.
+Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để hoàn tất.
+
+## Nhân bản bài tin tức
+
+Chọn tin bài cần nhân bản từ danh sách sau đó chọn Nhân bản => Hệ thống sẽ nhân bản bài tin bài và đặt trạng thái là tắt.
+
+## Bật/Tắt trạng thái tất cả tin bài
+
+Chọn tin bài cần bật hoặc tắt từ màn hình danh sách checkbox bên phải chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái tin bài.
