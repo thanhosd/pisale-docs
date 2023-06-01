@@ -73,6 +73,8 @@ Kết quả hiển thị tự động theo theo công thức `Tổng điểm/S�
 
 Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc list danh sách cho bạn lựa chọn bài phù hợp. Được hiển thị phía đầu nội dung bài tin, trình bày dạng bullet
 
+**Seo**
+
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
@@ -96,7 +98,3 @@ Nhấn chọn trực tiếp tại tin bài muốn sửa, sau khi thay đổi cá
 ## Nhân bản bài tin tức
 
 Chọn tin bài cần nhân bản từ danh sách sau đó chọn Nhân bản => Hệ thống sẽ nhân bản bài tin bài và đặt trạng thái là tắt.
-
-## Bật/Tắt trạng thái tất cả tin bài
-
-Chọn tin bài cần bật hoặc tắt từ màn hình danh sách checkbox bên phải chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái tin bài.
