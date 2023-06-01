@@ -33,7 +33,7 @@ Nhập thông tin ưu đãi cho sản phẩm
 
 **Thư viện ảnh**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
 
 **Giá bán**
 
