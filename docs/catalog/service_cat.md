@@ -7,7 +7,7 @@
 
 Để thêm một nhóm dịch vụ, bạn cần:
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Nhóm dịch vụ**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -45,6 +45,8 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
+**Seo**
+
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
@@ -60,7 +62,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa nhóm dịch vụ
 
 Nhấn chọn nhóm dịch vụ muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
-
-## Bật/Tắt trạng thái tất cả nhóm dịch vụ
-
-Chọn nhóm dịch vụ cần **Bật** hoặc **Tắt** trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn **Bật tất cả** hoặc **Tắt tất cả** => Hệ thống sẽ bật hoặc tắt trạng thái nhóm dịch vụ của bạn.

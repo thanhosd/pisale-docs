@@ -31,7 +31,7 @@ Nhấn chọn **Chọn ảnh đại diện** để lựa chọn tập tin hình
 
 **Thư viện ảnh**
 
-Nhấp chọn nút **Thêm ảnh -> Chọn ảnh** để chọn tải nhiều ảnh cho bài dịch vụ.
+Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
 
 **Nhóm dịch vụ**
 
@@ -81,6 +81,8 @@ Bạn cần gõ tên bài cụ thể hoặc gõ số 0 hệ thống sẽ lọc d
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
 
+**Seo**
+
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
@@ -106,7 +108,3 @@ Sau khi thay đổi các thông tin nội dung của bài viết cần chọn n�
 ## Nhân bản bài dịch vụ
 
 Chọn dịch vụ cần nhân bản từ danh sách sau đó chọn **Nhân bản** -> Hệ thống sẽ nhân bản bài dịch vụ và đặt trạng thái là tắt.
-
-## Bật/Tắt trạng thái tất cả
-
-Chọn bài dịch vụ cần Bật hoặc Tắt trạng thái từ màn hình danh sách checkbox bên phải sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái bài dịch vụ của bạn.

@@ -75,7 +75,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa nhóm sản phẩm
 
 Nhấn chọn nhóm sản phẩm muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
-
-## Bật/Tắt trạng thái tất cả nhóm sản phẩm
-
-Chọn nhóm sản phẩm cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái nhóm sản phẩm.

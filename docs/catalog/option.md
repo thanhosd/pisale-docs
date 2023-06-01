@@ -2,7 +2,7 @@
 
 ## Thêm mới tùy chọn
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Tùy chọn**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Tùy chọn**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Trang tạo tùy chọn mới được mở ra, điền các thông tin chi tiết của nhóm tùy chọn đó.
 
@@ -30,7 +30,7 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 Nhấp chọn để thêm nhiều tùy chọn khác nhau cùng nhóm tùy chọn
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Thêm** để lưu lại 1 mục.
 
 ## Xóa tùy chọn
 
@@ -40,4 +40,4 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 
 ## Sửa tùy chọn
 
-Nhấn chọn trực tiếp vào tùy chọn muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **v** để hoàn tất.
+Nhấn chọn trực tiếp vào tùy chọn muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.

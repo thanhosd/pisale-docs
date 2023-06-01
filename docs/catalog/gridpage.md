@@ -96,7 +96,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa bài longform
 
 Nhấn chọn bài longform cần sửa, sau khi thay đổi thông tin nội dung bài viết, bạn cần nhấn nút **Lưu** để cập nhật.
-
-## Bật/Tắt trạng thái tất cả longform
-
-Chọn longform cần bật hoặc tắt từ màn hình danh sách sau đó chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái longform.
