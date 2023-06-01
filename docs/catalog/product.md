@@ -7,7 +7,7 @@
 
 Để thêm một bài sản phẩm, bạn cần:
 
-Nhấn chọn **Nội dung -> Sản phẩm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Sản phẩm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -129,6 +129,8 @@ Nhấn chọn **Thêm nhanh theo nhóm** để lựa chọn nhóm đặc tính v
 **Câu hỏi thường gặp**
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/faqs)
+
+**Seo**
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description._
 
