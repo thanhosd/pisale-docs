@@ -40,6 +40,8 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#th%E1%BB%A9-t%E1
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
+**Seo**
+
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Xem thêm [tại đây](https://pisale.osd.vn/docs/seo/serp/)
@@ -57,4 +59,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
-
