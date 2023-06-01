@@ -33,7 +33,7 @@ Nhập thông tin ưu đãi cho sản phẩm
 
 **Thư viện ảnh**
 
-Nhấn chọn **Chọn ảnh đại diện/Chọn ảnh** để lựa chọn tập tin hình ảnh sản phẩm từ máy tính và tải lên
+Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%C6%B0-vi%E1%BB%87n-%E1%BA%A3nh)
 
 **Giá bán**
 
