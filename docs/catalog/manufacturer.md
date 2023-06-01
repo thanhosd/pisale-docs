@@ -54,7 +54,3 @@ Xem thêm [tại đây](https://pisale.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1
 ## Sửa nhà sản xuất
 
 Nhấn chọn nhà sản xuất muốn sửa, bạn cần nhập nội dung cần thay thế sau đó chọn nút **Lưu** để hoàn tất.
-
-## Bật/Tắt trạng thái tất cả nhà sản xuất
-
-Chọn nhà sản xuất cần bật hoặc tắt từ màn hình danh sách checkbox bên phải chọn Bật tất cả hoặc Tắt tất cả => Hệ thống sẽ bật hoặc tắt trạng thái nhà sản xuất.
